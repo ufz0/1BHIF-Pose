@@ -12,13 +12,16 @@ jobs:
   sync:
     runs-on: ubuntu-latest
     steps:
-      # Step 1: Re-clone the private repository to ensure it's in a clean state
+      # Step 1: Re-clone the private repository using the PAT for authentication
       - name: Re-clone the private repository
         run: |
           rm -rf 1BHIF-Pose-Private  # Remove the existing clone if it exists
           git clone https://github.com/lukasWastaken/1BHIF-Pose-Private.git  # Clone the private repository
           cd 1BHIF-Pose-Private
           git remote add public https://github.com/lukasWastaken/1BHIF-Pose.git  # Add the public repository as a remote
+        env:
+          GIT_ASKPASS: "echo"       # Disable password prompt
+          GITHUB_TOKEN: ${{ secrets.PUBLIC_REPO_TOKEN }}  # Use the secret PAT
 
       # Step 2: Set up Git config
       - name: Set up Git config
