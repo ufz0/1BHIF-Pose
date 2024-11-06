@@ -7,7 +7,7 @@
           A (fully functional) calculator 
  *------------------------------------------------------
 */
-Using System;
+using System;
 
 namespace calculator
 {

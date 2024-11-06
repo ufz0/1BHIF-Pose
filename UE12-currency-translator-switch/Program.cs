@@ -8,6 +8,8 @@
  *------------------------------------------------------
 */
 
+using System;
+
 namespace currencyTranslator
 {
     class currencyTranslator
