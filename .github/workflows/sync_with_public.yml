@@ -20,8 +20,14 @@ jobs:
           cd 1BHIF-Pose-Private  # Change into the directory after cloning
           git remote add public https://github.com/lukasWastaken/1BHIF-Pose.git  # Add the public repository as a remote
 
-      # Step 2: Push only the main branch to the public repository
+      # Step 2: Exclude the .github folder
+      - name: Remove .github folder
+        run: |
+          cd 1BHIF-Pose-Private  # Change into the directory
+          rm -rf .github  # Remove the .github folder to prevent it from being pushed to the public repository
+
+      # Step 3: Push to the public repository
       - name: Push to the public repository
         run: |
           cd 1BHIF-Pose-Private  # Make sure to be in the right directory
-          git push https://${{ secrets.PUBLIC_REPO_TOKEN }}@github.com/lukasWastaken/1BHIF-Pose.git master --no-verify  # Push only the main branch to the public repository using the token for authentication
+          git push https://${{ secrets.PUBLIC_REPO_TOKEN }}@github.com/lukasWastaken/1BHIF-Pose.git main --no-verify  # Push only the main branch to the public repository using the token for authentication
