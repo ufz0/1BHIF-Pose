@@ -17,10 +17,11 @@ jobs:
         run: |
           rm -rf 1BHIF-Pose-Private  # Remove the existing clone if it exists
           git clone https://${{ secrets.PUBLIC_REPO_TOKEN }}@github.com/lukasWastaken/1BHIF-Pose-Private.git  # Use token in the URL for authentication
-          cd 1BHIF-Pose-Private
+          cd 1BHIF-Pose-Private  # Change into the directory after cloning
           git remote add public https://github.com/lukasWastaken/1BHIF-Pose.git  # Add the public repository as a remote
 
       # Step 2: Push everything (branches, tags, commits) to the public repository
       - name: Push to the public repository
         run: |
-          git push --mirror public
+          cd 1BHIF-Pose-Private  # Make sure to be in the right directory
+          git push --mirror public  # Push to the public repository
