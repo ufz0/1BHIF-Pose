@@ -12,22 +12,27 @@ jobs:
   sync:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-        with:
-          token: ${{ secrets.PUBLIC_REPO_TOKEN }}  # Use your PAT here
-      #- name: Clean repository
-       # run: |
-        #    git gc --prune=now --aggressive
-         #   git fsck --full
-        
+      # Step 1: Re-clone the private repository to ensure it's in a clean state
+      - name: Re-clone the private repository
+        run: |
+          rm -rf 1BHIF-Pose-Private  # Remove the existing clone if it exists
+          git clone https://github.com/lukasWastaken/1BHIF-Pose-Private.git  # Clone the private repository
+          cd 1BHIF-Pose-Private
+          git remote add public https://github.com/lukasWastaken/1BHIF-Pose.git  # Add the public repository as a remote
+
+      # Step 2: Set up Git config
       - name: Set up Git config
         run: |
-          git config --global user.name 'lukasWastaken'
-          git config --global user.email 'l.leutgeb@students.htl-leonding.ac.at'
+          git config --global user.name 'Your Name'
+          git config --global user.email 'your-username@users.noreply.github.com'
 
-      - name: Add the public repository as a remote
-        run: git remote add public https://github.com/lukasWastaken/1BHIF-Pose
+      # Step 3: Clean repository and check integrity
+      - name: Clean repository and check integrity
+        run: |
+          git gc --prune=now --aggressive  # Run garbage collection to clean up the repository
+          git fsck --full  # Check the repository for any issues
 
+      # Step 4: Push to the public repository
       - name: Push to public repository
-        run: git push -u public main -f --no-verify
-      
+        run: |
+          git push -u public main -f --no-verify  # Force push changes to the public repository without verification
