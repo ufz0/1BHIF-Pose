@@ -15,7 +15,7 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Add the public repository as a remote
-        run: git remote add public https://lukasWastaken:${{ secrets.PUBLIC_REPO_TOKEN }}@github.com/lukasWastaken/1BHIF-Pose.git
+        run: git remote add public https://lukasWastaken:${{ secrets.PUBLIC_REPO_TOKEN }}@github.com/lukasWastaken/1BHIF-Pose
 
       - name: Push to public repository
         run: |
