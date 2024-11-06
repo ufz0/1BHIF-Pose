@@ -1,0 +1,27 @@
+name: Sync Private to Public
+
+on:
+  schedule:
+    - cron: "0 7 * * 0"  # Every Sunday at 08:00 CET
+  workflow_dispatch:      # Allows manual triggering
+
+permissions:
+  contents: write          # Grants write permissions to push changes
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      # Step 1: Clone the private repository
+      - name: Clone the private repository
+        run: |
+          git clone https://github.com/lukasWastaken/1BHIF-Pose-Private.git
+          cd 1BHIF-Pose-Private
+          git remote add public https://github.com/lukasWastaken/1BHIF-Pose.git  # Add the public repository as a remote
+
+      # Step 2: Push everything (branches, tags, commits) to the public repository
+      - name: Push to the public repository
+        run: |
+          git push --mirror public
+        env:
+          GITHUB_TOKEN: ${{ secrets.PUBLIC_REPO_TOKEN }}  # Use the PAT for authentication
