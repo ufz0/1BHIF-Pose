@@ -23,19 +23,26 @@ jobs:
       # Step 2: Set Git user name and email
       - name: Set Git user
         run: |
-          git config --global user.email "l.leutgebl"  # Set the email for commits
+          git config --global user.email "l.leutgeb@students.htl-leonding.ac.at"  # Set the email for commits
           git config --global user.name "GitHub Actions"  # Set the username for commits
 
-      # Step 3: Remove the .github folder and ensure it is ignored
+      # Step 3: Remove .github folder and add it to .gitignore
       - name: Remove and ignore .github folder
         run: |
           cd 1BHIF-Pose-Private  # Change into the directory
           rm -rf .github  # Remove the .github folder
-          echo '.github/' >> .gitignore  # Add .github/ to .gitignore temporarily
+          echo '.github/' >> .gitignore  # Add .github/ to .gitignore
           git add .gitignore  # Add the .gitignore change
           git commit -m "Temporarily ignore .github folder"
 
-      # Step 4: Push to the public repository
+      # Step 4: Clean .github from git history
+      - name: Remove .github from history
+        run: |
+          cd 1BHIF-Pose-Private  # Change into the directory
+          git rm --cached -r .github  # Remove .github from index (staging area)
+          git commit -m "Remove .github from repository history"
+      
+      # Step 5: Push to the public repository
       - name: Push to the public repository
         run: |
           cd 1BHIF-Pose-Private  # Make sure to be in the right directory
