@@ -1,0 +1,14 @@
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE05-Mehrwertssteuerrechner/obj/Debug/net8.0/UE05-Mehrwertssteuerrechner.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE05-Mehrwertssteuerrechner/obj/Debug/net8.0/UE05-Mehrwertssteuerrechner.AssemblyInfoInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE05-Mehrwertssteuerrechner/obj/Debug/net8.0/UE05-Mehrwertssteuerrechner.AssemblyInfo.cs
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE05-Mehrwertssteuerrechner/obj/Debug/net8.0/UE05-Mehrwertssteuerrechner.csproj.CoreCompileInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE05-Mehrwertssteuerrechner/bin/Debug/net8.0/UE05-Mehrwertssteuerrechner
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE05-Mehrwertssteuerrechner/bin/Debug/net8.0/UE05-Mehrwertssteuerrechner.deps.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE05-Mehrwertssteuerrechner/bin/Debug/net8.0/UE05-Mehrwertssteuerrechner.runtimeconfig.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE05-Mehrwertssteuerrechner/bin/Debug/net8.0/UE05-Mehrwertssteuerrechner.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE05-Mehrwertssteuerrechner/bin/Debug/net8.0/UE05-Mehrwertssteuerrechner.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE05-Mehrwertssteuerrechner/obj/Debug/net8.0/UE05-Mehrwertssteuerrechner.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE05-Mehrwertssteuerrechner/obj/Debug/net8.0/refint/UE05-Mehrwertssteuerrechner.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE05-Mehrwertssteuerrechner/obj/Debug/net8.0/UE05-Mehrwertssteuerrechner.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE05-Mehrwertssteuerrechner/obj/Debug/net8.0/UE05-Mehrwertssteuerrechner.genruntimeconfig.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE05-Mehrwertssteuerrechner/obj/Debug/net8.0/ref/UE05-Mehrwertssteuerrechner.dll

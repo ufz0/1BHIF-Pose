@@ -1,0 +1,14 @@
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE11-Calculator/obj/Debug/net8.0/UE11-Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE11-Calculator/obj/Debug/net8.0/UE11-Calculator.AssemblyInfoInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE11-Calculator/obj/Debug/net8.0/UE11-Calculator.AssemblyInfo.cs
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE11-Calculator/obj/Debug/net8.0/UE11-Calculator.csproj.CoreCompileInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE11-Calculator/bin/Debug/net8.0/UE11-Calculator
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE11-Calculator/bin/Debug/net8.0/UE11-Calculator.deps.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE11-Calculator/bin/Debug/net8.0/UE11-Calculator.runtimeconfig.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE11-Calculator/bin/Debug/net8.0/UE11-Calculator.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE11-Calculator/bin/Debug/net8.0/UE11-Calculator.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE11-Calculator/obj/Debug/net8.0/UE11-Calculator.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE11-Calculator/obj/Debug/net8.0/refint/UE11-Calculator.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE11-Calculator/obj/Debug/net8.0/UE11-Calculator.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE11-Calculator/obj/Debug/net8.0/UE11-Calculator.genruntimeconfig.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE11-Calculator/obj/Debug/net8.0/ref/UE11-Calculator.dll

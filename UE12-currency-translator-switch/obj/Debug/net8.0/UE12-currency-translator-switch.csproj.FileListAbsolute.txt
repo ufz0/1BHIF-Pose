@@ -1,0 +1,15 @@
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE12-currency-translator-switch/bin/Debug/net8.0/UE12-currency-translator-switch
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE12-currency-translator-switch/bin/Debug/net8.0/UE12-currency-translator-switch.deps.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE12-currency-translator-switch/bin/Debug/net8.0/UE12-currency-translator-switch.runtimeconfig.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE12-currency-translator-switch/bin/Debug/net8.0/UE12-currency-translator-switch.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE12-currency-translator-switch/bin/Debug/net8.0/UE12-currency-translator-switch.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE12-currency-translator-switch/obj/Debug/net8.0/UE12-currency-translator-switch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE12-currency-translator-switch/obj/Debug/net8.0/UE12-currency-translator-switch.AssemblyInfoInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE12-currency-translator-switch/obj/Debug/net8.0/UE12-currency-translator-switch.AssemblyInfo.cs
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE12-currency-translator-switch/obj/Debug/net8.0/UE12-currency-translator-switch.csproj.CoreCompileInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE12-currency-translator-switch/obj/Debug/net8.0/UE12-currency-translator-switch.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE12-currency-translator-switch/obj/Debug/net8.0/refint/UE12-currency-translator-switch.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE12-currency-translator-switch/obj/Debug/net8.0/UE12-currency-translator-switch.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE12-currency-translator-switch/obj/Debug/net8.0/UE12-currency-translator-switch.genruntimeconfig.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE12-currency-translator-switch/obj/Debug/net8.0/ref/UE12-currency-translator-switch.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE12-currency-translator-switch/obj/Debug/net8.0/UE12-currency-translator-switch.sourcelink.json

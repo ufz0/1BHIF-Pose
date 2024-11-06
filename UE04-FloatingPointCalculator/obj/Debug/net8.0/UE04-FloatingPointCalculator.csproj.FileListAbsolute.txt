@@ -1,0 +1,14 @@
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE04-FloatingPointCalculator/bin/Debug/net8.0/UE04-FloatingPointCalculator
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE04-FloatingPointCalculator/bin/Debug/net8.0/UE04-FloatingPointCalculator.deps.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE04-FloatingPointCalculator/bin/Debug/net8.0/UE04-FloatingPointCalculator.runtimeconfig.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE04-FloatingPointCalculator/bin/Debug/net8.0/UE04-FloatingPointCalculator.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE04-FloatingPointCalculator/bin/Debug/net8.0/UE04-FloatingPointCalculator.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE04-FloatingPointCalculator/obj/Debug/net8.0/UE04-FloatingPointCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE04-FloatingPointCalculator/obj/Debug/net8.0/UE04-FloatingPointCalculator.AssemblyInfoInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE04-FloatingPointCalculator/obj/Debug/net8.0/UE04-FloatingPointCalculator.AssemblyInfo.cs
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE04-FloatingPointCalculator/obj/Debug/net8.0/UE04-FloatingPointCalculator.csproj.CoreCompileInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE04-FloatingPointCalculator/obj/Debug/net8.0/UE04-FloatingPointCalculator.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE04-FloatingPointCalculator/obj/Debug/net8.0/refint/UE04-FloatingPointCalculator.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE04-FloatingPointCalculator/obj/Debug/net8.0/UE04-FloatingPointCalculator.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE04-FloatingPointCalculator/obj/Debug/net8.0/UE04-FloatingPointCalculator.genruntimeconfig.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE04-FloatingPointCalculator/obj/Debug/net8.0/ref/UE04-FloatingPointCalculator.dll

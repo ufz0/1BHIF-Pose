@@ -1,0 +1,14 @@
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE08-Waehrungsrechner/bin/Debug/net8.0/UE08-Waehrungsrechner
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE08-Waehrungsrechner/bin/Debug/net8.0/UE08-Waehrungsrechner.deps.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE08-Waehrungsrechner/bin/Debug/net8.0/UE08-Waehrungsrechner.runtimeconfig.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE08-Waehrungsrechner/bin/Debug/net8.0/UE08-Waehrungsrechner.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE08-Waehrungsrechner/bin/Debug/net8.0/UE08-Waehrungsrechner.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE08-Waehrungsrechner/obj/Debug/net8.0/UE08-Waehrungsrechner.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE08-Waehrungsrechner/obj/Debug/net8.0/UE08-Waehrungsrechner.AssemblyInfoInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE08-Waehrungsrechner/obj/Debug/net8.0/UE08-Waehrungsrechner.AssemblyInfo.cs
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE08-Waehrungsrechner/obj/Debug/net8.0/UE08-Waehrungsrechner.csproj.CoreCompileInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE08-Waehrungsrechner/obj/Debug/net8.0/UE08-Waehrungsrechner.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE08-Waehrungsrechner/obj/Debug/net8.0/refint/UE08-Waehrungsrechner.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE08-Waehrungsrechner/obj/Debug/net8.0/UE08-Waehrungsrechner.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE08-Waehrungsrechner/obj/Debug/net8.0/UE08-Waehrungsrechner.genruntimeconfig.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE08-Waehrungsrechner/obj/Debug/net8.0/ref/UE08-Waehrungsrechner.dll

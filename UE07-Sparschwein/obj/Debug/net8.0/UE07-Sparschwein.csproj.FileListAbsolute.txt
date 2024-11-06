@@ -1,0 +1,14 @@
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE07-Sparschwein/obj/Debug/net8.0/UE07-Sparschwein.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE07-Sparschwein/obj/Debug/net8.0/UE07-Sparschwein.AssemblyInfoInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE07-Sparschwein/obj/Debug/net8.0/UE07-Sparschwein.AssemblyInfo.cs
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE07-Sparschwein/obj/Debug/net8.0/UE07-Sparschwein.csproj.CoreCompileInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE07-Sparschwein/bin/Debug/net8.0/UE07-Sparschwein
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE07-Sparschwein/bin/Debug/net8.0/UE07-Sparschwein.deps.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE07-Sparschwein/bin/Debug/net8.0/UE07-Sparschwein.runtimeconfig.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE07-Sparschwein/bin/Debug/net8.0/UE07-Sparschwein.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE07-Sparschwein/bin/Debug/net8.0/UE07-Sparschwein.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE07-Sparschwein/obj/Debug/net8.0/UE07-Sparschwein.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE07-Sparschwein/obj/Debug/net8.0/refint/UE07-Sparschwein.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE07-Sparschwein/obj/Debug/net8.0/UE07-Sparschwein.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE07-Sparschwein/obj/Debug/net8.0/UE07-Sparschwein.genruntimeconfig.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE07-Sparschwein/obj/Debug/net8.0/ref/UE07-Sparschwein.dll

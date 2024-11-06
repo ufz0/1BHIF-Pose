@@ -1,0 +1,15 @@
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE20-Sortof3values/bin/Debug/net8.0/UE20-Sortof3values
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE20-Sortof3values/bin/Debug/net8.0/UE20-Sortof3values.deps.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE20-Sortof3values/bin/Debug/net8.0/UE20-Sortof3values.runtimeconfig.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE20-Sortof3values/bin/Debug/net8.0/UE20-Sortof3values.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE20-Sortof3values/bin/Debug/net8.0/UE20-Sortof3values.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE20-Sortof3values/obj/Debug/net8.0/UE20-Sortof3values.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE20-Sortof3values/obj/Debug/net8.0/UE20-Sortof3values.AssemblyInfoInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE20-Sortof3values/obj/Debug/net8.0/UE20-Sortof3values.AssemblyInfo.cs
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE20-Sortof3values/obj/Debug/net8.0/UE20-Sortof3values.csproj.CoreCompileInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE20-Sortof3values/obj/Debug/net8.0/UE20-Sortof3values.sourcelink.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE20-Sortof3values/obj/Debug/net8.0/UE20-Sortof3values.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE20-Sortof3values/obj/Debug/net8.0/refint/UE20-Sortof3values.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE20-Sortof3values/obj/Debug/net8.0/UE20-Sortof3values.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE20-Sortof3values/obj/Debug/net8.0/UE20-Sortof3values.genruntimeconfig.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE20-Sortof3values/obj/Debug/net8.0/ref/UE20-Sortof3values.dll

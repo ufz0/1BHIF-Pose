@@ -1,0 +1,14 @@
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE13-MaxOf3Values/bin/Debug/net8.0/UE13-MaxOf3Values
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE13-MaxOf3Values/bin/Debug/net8.0/UE13-MaxOf3Values.deps.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE13-MaxOf3Values/bin/Debug/net8.0/UE13-MaxOf3Values.runtimeconfig.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE13-MaxOf3Values/bin/Debug/net8.0/UE13-MaxOf3Values.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE13-MaxOf3Values/bin/Debug/net8.0/UE13-MaxOf3Values.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE13-MaxOf3Values/obj/Debug/net8.0/UE13-MaxOf3Values.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE13-MaxOf3Values/obj/Debug/net8.0/UE13-MaxOf3Values.AssemblyInfoInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE13-MaxOf3Values/obj/Debug/net8.0/UE13-MaxOf3Values.AssemblyInfo.cs
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE13-MaxOf3Values/obj/Debug/net8.0/UE13-MaxOf3Values.csproj.CoreCompileInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE13-MaxOf3Values/obj/Debug/net8.0/UE13-MaxOf3Values.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE13-MaxOf3Values/obj/Debug/net8.0/refint/UE13-MaxOf3Values.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE13-MaxOf3Values/obj/Debug/net8.0/UE13-MaxOf3Values.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE13-MaxOf3Values/obj/Debug/net8.0/UE13-MaxOf3Values.genruntimeconfig.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE13-MaxOf3Values/obj/Debug/net8.0/ref/UE13-MaxOf3Values.dll

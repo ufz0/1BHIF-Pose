@@ -1,0 +1,15 @@
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE19-DonaldFriends/bin/Debug/net8.0/UE19-DonaldFriends
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE19-DonaldFriends/bin/Debug/net8.0/UE19-DonaldFriends.deps.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE19-DonaldFriends/bin/Debug/net8.0/UE19-DonaldFriends.runtimeconfig.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE19-DonaldFriends/bin/Debug/net8.0/UE19-DonaldFriends.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE19-DonaldFriends/bin/Debug/net8.0/UE19-DonaldFriends.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE19-DonaldFriends/obj/Debug/net8.0/UE19-DonaldFriends.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE19-DonaldFriends/obj/Debug/net8.0/UE19-DonaldFriends.AssemblyInfoInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE19-DonaldFriends/obj/Debug/net8.0/UE19-DonaldFriends.AssemblyInfo.cs
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE19-DonaldFriends/obj/Debug/net8.0/UE19-DonaldFriends.csproj.CoreCompileInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE19-DonaldFriends/obj/Debug/net8.0/UE19-DonaldFriends.sourcelink.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE19-DonaldFriends/obj/Debug/net8.0/UE19-DonaldFriends.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE19-DonaldFriends/obj/Debug/net8.0/refint/UE19-DonaldFriends.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE19-DonaldFriends/obj/Debug/net8.0/UE19-DonaldFriends.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE19-DonaldFriends/obj/Debug/net8.0/UE19-DonaldFriends.genruntimeconfig.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE19-DonaldFriends/obj/Debug/net8.0/ref/UE19-DonaldFriends.dll

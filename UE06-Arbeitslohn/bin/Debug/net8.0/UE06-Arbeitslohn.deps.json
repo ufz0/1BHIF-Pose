@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "UE06-Arbeitslohn/1.0.0": {
+        "runtime": {
+          "UE06-Arbeitslohn.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UE06-Arbeitslohn/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

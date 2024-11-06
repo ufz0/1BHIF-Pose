@@ -1,0 +1,14 @@
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE01-YOH/obj/Debug/net8.0/UE01-YOH.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE01-YOH/obj/Debug/net8.0/UE01-YOH.AssemblyInfoInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE01-YOH/obj/Debug/net8.0/UE01-YOH.AssemblyInfo.cs
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE01-YOH/obj/Debug/net8.0/UE01-YOH.csproj.CoreCompileInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE01-YOH/bin/Debug/net8.0/UE01-YOH
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE01-YOH/bin/Debug/net8.0/UE01-YOH.deps.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE01-YOH/bin/Debug/net8.0/UE01-YOH.runtimeconfig.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE01-YOH/bin/Debug/net8.0/UE01-YOH.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE01-YOH/bin/Debug/net8.0/UE01-YOH.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE01-YOH/obj/Debug/net8.0/UE01-YOH.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE01-YOH/obj/Debug/net8.0/refint/UE01-YOH.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE01-YOH/obj/Debug/net8.0/UE01-YOH.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE01-YOH/obj/Debug/net8.0/UE01-YOH.genruntimeconfig.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE01-YOH/obj/Debug/net8.0/ref/UE01-YOH.dll

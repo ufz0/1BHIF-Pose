@@ -1,0 +1,15 @@
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE18-TimeCalculator/bin/Debug/net8.0/UE18-TimeCalculator
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE18-TimeCalculator/bin/Debug/net8.0/UE18-TimeCalculator.deps.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE18-TimeCalculator/bin/Debug/net8.0/UE18-TimeCalculator.runtimeconfig.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE18-TimeCalculator/bin/Debug/net8.0/UE18-TimeCalculator.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE18-TimeCalculator/bin/Debug/net8.0/UE18-TimeCalculator.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE18-TimeCalculator/obj/Debug/net8.0/UE18-TimeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE18-TimeCalculator/obj/Debug/net8.0/UE18-TimeCalculator.AssemblyInfoInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE18-TimeCalculator/obj/Debug/net8.0/UE18-TimeCalculator.AssemblyInfo.cs
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE18-TimeCalculator/obj/Debug/net8.0/UE18-TimeCalculator.csproj.CoreCompileInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE18-TimeCalculator/obj/Debug/net8.0/UE18-TimeCalculator.sourcelink.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE18-TimeCalculator/obj/Debug/net8.0/UE18-TimeCalculator.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE18-TimeCalculator/obj/Debug/net8.0/refint/UE18-TimeCalculator.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE18-TimeCalculator/obj/Debug/net8.0/UE18-TimeCalculator.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE18-TimeCalculator/obj/Debug/net8.0/UE18-TimeCalculator.genruntimeconfig.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE18-TimeCalculator/obj/Debug/net8.0/ref/UE18-TimeCalculator.dll

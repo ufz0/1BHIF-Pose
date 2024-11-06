@@ -1,0 +1,15 @@
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE16-Calculator-with-if/bin/Debug/net8.0/UE16-Calculator-with-if
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE16-Calculator-with-if/bin/Debug/net8.0/UE16-Calculator-with-if.deps.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE16-Calculator-with-if/bin/Debug/net8.0/UE16-Calculator-with-if.runtimeconfig.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE16-Calculator-with-if/bin/Debug/net8.0/UE16-Calculator-with-if.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE16-Calculator-with-if/bin/Debug/net8.0/UE16-Calculator-with-if.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE16-Calculator-with-if/obj/Debug/net8.0/UE16-Calculator-with-if.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE16-Calculator-with-if/obj/Debug/net8.0/UE16-Calculator-with-if.AssemblyInfoInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE16-Calculator-with-if/obj/Debug/net8.0/UE16-Calculator-with-if.AssemblyInfo.cs
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE16-Calculator-with-if/obj/Debug/net8.0/UE16-Calculator-with-if.csproj.CoreCompileInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE16-Calculator-with-if/obj/Debug/net8.0/UE16-Calculator-with-if.sourcelink.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE16-Calculator-with-if/obj/Debug/net8.0/UE16-Calculator-with-if.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE16-Calculator-with-if/obj/Debug/net8.0/refint/UE16-Calculator-with-if.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE16-Calculator-with-if/obj/Debug/net8.0/UE16-Calculator-with-if.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE16-Calculator-with-if/obj/Debug/net8.0/UE16-Calculator-with-if.genruntimeconfig.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE16-Calculator-with-if/obj/Debug/net8.0/ref/UE16-Calculator-with-if.dll

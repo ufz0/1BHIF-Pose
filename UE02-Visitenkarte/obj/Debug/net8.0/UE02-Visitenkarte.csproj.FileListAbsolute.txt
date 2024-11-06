@@ -1,0 +1,14 @@
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE02-Visitenkarte/bin/Debug/net8.0/UE02-Visitenkarte
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE02-Visitenkarte/bin/Debug/net8.0/UE02-Visitenkarte.deps.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE02-Visitenkarte/bin/Debug/net8.0/UE02-Visitenkarte.runtimeconfig.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE02-Visitenkarte/bin/Debug/net8.0/UE02-Visitenkarte.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE02-Visitenkarte/bin/Debug/net8.0/UE02-Visitenkarte.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE02-Visitenkarte/obj/Debug/net8.0/UE02-Visitenkarte.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE02-Visitenkarte/obj/Debug/net8.0/UE02-Visitenkarte.AssemblyInfoInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE02-Visitenkarte/obj/Debug/net8.0/UE02-Visitenkarte.AssemblyInfo.cs
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE02-Visitenkarte/obj/Debug/net8.0/UE02-Visitenkarte.csproj.CoreCompileInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE02-Visitenkarte/obj/Debug/net8.0/UE02-Visitenkarte.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE02-Visitenkarte/obj/Debug/net8.0/refint/UE02-Visitenkarte.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE02-Visitenkarte/obj/Debug/net8.0/UE02-Visitenkarte.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE02-Visitenkarte/obj/Debug/net8.0/UE02-Visitenkarte.genruntimeconfig.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE02-Visitenkarte/obj/Debug/net8.0/ref/UE02-Visitenkarte.dll

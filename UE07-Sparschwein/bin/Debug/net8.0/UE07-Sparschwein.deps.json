@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "UE07-Sparschwein/1.0.0": {
+        "runtime": {
+          "UE07-Sparschwein.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UE07-Sparschwein/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE06-Arbeitslohn/bin/Debug/net8.0/UE06-Arbeitslohn
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE06-Arbeitslohn/bin/Debug/net8.0/UE06-Arbeitslohn.deps.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE06-Arbeitslohn/bin/Debug/net8.0/UE06-Arbeitslohn.runtimeconfig.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE06-Arbeitslohn/bin/Debug/net8.0/UE06-Arbeitslohn.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE06-Arbeitslohn/bin/Debug/net8.0/UE06-Arbeitslohn.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE06-Arbeitslohn/obj/Debug/net8.0/UE06-Arbeitslohn.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE06-Arbeitslohn/obj/Debug/net8.0/UE06-Arbeitslohn.AssemblyInfoInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE06-Arbeitslohn/obj/Debug/net8.0/UE06-Arbeitslohn.AssemblyInfo.cs
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE06-Arbeitslohn/obj/Debug/net8.0/UE06-Arbeitslohn.csproj.CoreCompileInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE06-Arbeitslohn/obj/Debug/net8.0/UE06-Arbeitslohn.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE06-Arbeitslohn/obj/Debug/net8.0/refint/UE06-Arbeitslohn.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE06-Arbeitslohn/obj/Debug/net8.0/UE06-Arbeitslohn.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE06-Arbeitslohn/obj/Debug/net8.0/UE06-Arbeitslohn.genruntimeconfig.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE06-Arbeitslohn/obj/Debug/net8.0/ref/UE06-Arbeitslohn.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE06-Arbeitslohn/obj/Debug/net8.0/UE06-Arbeitslohn.sourcelink.json

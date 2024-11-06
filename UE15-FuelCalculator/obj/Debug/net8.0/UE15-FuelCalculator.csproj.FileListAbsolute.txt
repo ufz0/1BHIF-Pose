@@ -1,0 +1,15 @@
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE15-FuelCalculator/bin/Debug/net8.0/UE15-FuelCalculator
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE15-FuelCalculator/bin/Debug/net8.0/UE15-FuelCalculator.deps.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE15-FuelCalculator/bin/Debug/net8.0/UE15-FuelCalculator.runtimeconfig.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE15-FuelCalculator/bin/Debug/net8.0/UE15-FuelCalculator.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE15-FuelCalculator/bin/Debug/net8.0/UE15-FuelCalculator.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE15-FuelCalculator/obj/Debug/net8.0/UE15-FuelCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE15-FuelCalculator/obj/Debug/net8.0/UE15-FuelCalculator.AssemblyInfoInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE15-FuelCalculator/obj/Debug/net8.0/UE15-FuelCalculator.AssemblyInfo.cs
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE15-FuelCalculator/obj/Debug/net8.0/UE15-FuelCalculator.csproj.CoreCompileInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE15-FuelCalculator/obj/Debug/net8.0/UE15-FuelCalculator.sourcelink.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE15-FuelCalculator/obj/Debug/net8.0/UE15-FuelCalculator.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE15-FuelCalculator/obj/Debug/net8.0/refint/UE15-FuelCalculator.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE15-FuelCalculator/obj/Debug/net8.0/UE15-FuelCalculator.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE15-FuelCalculator/obj/Debug/net8.0/UE15-FuelCalculator.genruntimeconfig.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE15-FuelCalculator/obj/Debug/net8.0/ref/UE15-FuelCalculator.dll

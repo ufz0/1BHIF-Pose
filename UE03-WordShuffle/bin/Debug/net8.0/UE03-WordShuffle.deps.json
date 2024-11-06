@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "UE03-WordShuffle/1.0.0": {
+        "runtime": {
+          "UE03-WordShuffle.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UE03-WordShuffle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

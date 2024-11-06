@@ -1,0 +1,14 @@
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE03-WordShuffle/bin/Debug/net8.0/UE03-WordShuffle
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE03-WordShuffle/bin/Debug/net8.0/UE03-WordShuffle.deps.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE03-WordShuffle/bin/Debug/net8.0/UE03-WordShuffle.runtimeconfig.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE03-WordShuffle/bin/Debug/net8.0/UE03-WordShuffle.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE03-WordShuffle/bin/Debug/net8.0/UE03-WordShuffle.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE03-WordShuffle/obj/Debug/net8.0/UE03-WordShuffle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE03-WordShuffle/obj/Debug/net8.0/UE03-WordShuffle.AssemblyInfoInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE03-WordShuffle/obj/Debug/net8.0/UE03-WordShuffle.AssemblyInfo.cs
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE03-WordShuffle/obj/Debug/net8.0/UE03-WordShuffle.csproj.CoreCompileInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE03-WordShuffle/obj/Debug/net8.0/UE03-WordShuffle.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE03-WordShuffle/obj/Debug/net8.0/refint/UE03-WordShuffle.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE03-WordShuffle/obj/Debug/net8.0/UE03-WordShuffle.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE03-WordShuffle/obj/Debug/net8.0/UE03-WordShuffle.genruntimeconfig.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE03-WordShuffle/obj/Debug/net8.0/ref/UE03-WordShuffle.dll

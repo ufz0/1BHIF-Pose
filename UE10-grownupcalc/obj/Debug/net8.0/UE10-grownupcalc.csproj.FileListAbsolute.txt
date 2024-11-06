@@ -1,0 +1,4 @@
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE10-grownupcalc/obj/Debug/net8.0/UE10-grownupcalc.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE10-grownupcalc/obj/Debug/net8.0/UE10-grownupcalc.AssemblyInfoInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE10-grownupcalc/obj/Debug/net8.0/UE10-grownupcalc.AssemblyInfo.cs
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE10-grownupcalc/obj/Debug/net8.0/UE10-grownupcalc.csproj.CoreCompileInputs.cache

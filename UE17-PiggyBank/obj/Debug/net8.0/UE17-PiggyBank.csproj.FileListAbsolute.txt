@@ -1,0 +1,15 @@
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE17-PiggyBank/obj/Debug/net8.0/UE17-PiggyBank.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE17-PiggyBank/obj/Debug/net8.0/UE17-PiggyBank.AssemblyInfoInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE17-PiggyBank/obj/Debug/net8.0/UE17-PiggyBank.AssemblyInfo.cs
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE17-PiggyBank/obj/Debug/net8.0/UE17-PiggyBank.csproj.CoreCompileInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE17-PiggyBank/obj/Debug/net8.0/UE17-PiggyBank.sourcelink.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE17-PiggyBank/bin/Debug/net8.0/UE17-PiggyBank
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE17-PiggyBank/bin/Debug/net8.0/UE17-PiggyBank.deps.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE17-PiggyBank/bin/Debug/net8.0/UE17-PiggyBank.runtimeconfig.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE17-PiggyBank/bin/Debug/net8.0/UE17-PiggyBank.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE17-PiggyBank/bin/Debug/net8.0/UE17-PiggyBank.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE17-PiggyBank/obj/Debug/net8.0/UE17-PiggyBank.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE17-PiggyBank/obj/Debug/net8.0/refint/UE17-PiggyBank.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE17-PiggyBank/obj/Debug/net8.0/UE17-PiggyBank.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE17-PiggyBank/obj/Debug/net8.0/UE17-PiggyBank.genruntimeconfig.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE17-PiggyBank/obj/Debug/net8.0/ref/UE17-PiggyBank.dll

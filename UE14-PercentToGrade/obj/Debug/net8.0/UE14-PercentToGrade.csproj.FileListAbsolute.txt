@@ -1,0 +1,15 @@
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE14-PercentToGrade/obj/Debug/net8.0/UE14-PercentToGrade.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE14-PercentToGrade/obj/Debug/net8.0/UE14-PercentToGrade.AssemblyInfoInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE14-PercentToGrade/obj/Debug/net8.0/UE14-PercentToGrade.AssemblyInfo.cs
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE14-PercentToGrade/obj/Debug/net8.0/UE14-PercentToGrade.csproj.CoreCompileInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE14-PercentToGrade/obj/Debug/net8.0/UE14-PercentToGrade.sourcelink.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE14-PercentToGrade/bin/Debug/net8.0/UE14-PercentToGrade
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE14-PercentToGrade/bin/Debug/net8.0/UE14-PercentToGrade.deps.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE14-PercentToGrade/bin/Debug/net8.0/UE14-PercentToGrade.runtimeconfig.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE14-PercentToGrade/bin/Debug/net8.0/UE14-PercentToGrade.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE14-PercentToGrade/bin/Debug/net8.0/UE14-PercentToGrade.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE14-PercentToGrade/obj/Debug/net8.0/UE14-PercentToGrade.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE14-PercentToGrade/obj/Debug/net8.0/refint/UE14-PercentToGrade.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE14-PercentToGrade/obj/Debug/net8.0/UE14-PercentToGrade.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE14-PercentToGrade/obj/Debug/net8.0/UE14-PercentToGrade.genruntimeconfig.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE14-PercentToGrade/obj/Debug/net8.0/ref/UE14-PercentToGrade.dll

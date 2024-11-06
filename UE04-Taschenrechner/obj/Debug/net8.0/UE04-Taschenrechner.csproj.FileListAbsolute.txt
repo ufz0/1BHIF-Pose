@@ -1,0 +1,14 @@
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE04-Taschenrechner/obj/Debug/net8.0/UE04-Taschenrechner.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE04-Taschenrechner/obj/Debug/net8.0/UE04-Taschenrechner.AssemblyInfoInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE04-Taschenrechner/obj/Debug/net8.0/UE04-Taschenrechner.AssemblyInfo.cs
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE04-Taschenrechner/obj/Debug/net8.0/UE04-Taschenrechner.csproj.CoreCompileInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE04-Taschenrechner/bin/Debug/net8.0/UE04-Taschenrechner
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE04-Taschenrechner/bin/Debug/net8.0/UE04-Taschenrechner.deps.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE04-Taschenrechner/bin/Debug/net8.0/UE04-Taschenrechner.runtimeconfig.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE04-Taschenrechner/bin/Debug/net8.0/UE04-Taschenrechner.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE04-Taschenrechner/bin/Debug/net8.0/UE04-Taschenrechner.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE04-Taschenrechner/obj/Debug/net8.0/UE04-Taschenrechner.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE04-Taschenrechner/obj/Debug/net8.0/refint/UE04-Taschenrechner.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE04-Taschenrechner/obj/Debug/net8.0/UE04-Taschenrechner.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE04-Taschenrechner/obj/Debug/net8.0/UE04-Taschenrechner.genruntimeconfig.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE04-Taschenrechner/obj/Debug/net8.0/ref/UE04-Taschenrechner.dll

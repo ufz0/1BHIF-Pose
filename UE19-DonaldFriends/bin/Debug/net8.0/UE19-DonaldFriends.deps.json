@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "UE19-DonaldFriends/1.0.0": {
+        "runtime": {
+          "UE19-DonaldFriends.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UE19-DonaldFriends/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

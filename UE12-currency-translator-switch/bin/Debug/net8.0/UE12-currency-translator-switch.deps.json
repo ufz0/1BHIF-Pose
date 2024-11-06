@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "UE12-currency-translator-switch/1.0.0": {
+        "runtime": {
+          "UE12-currency-translator-switch.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UE12-currency-translator-switch/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
