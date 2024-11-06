@@ -20,7 +20,13 @@ jobs:
           cd 1BHIF-Pose-Private  # Change into the directory after cloning
           git remote add public https://github.com/lukasWastaken/1BHIF-Pose.git  # Add the public repository as a remote
 
-      # Step 2: Remove the .github folder and ensure it is ignored
+      # Step 2: Set Git user name and email
+      - name: Set Git user
+        run: |
+          git config --global user.email "l.leutgeb@students.htl-leonding.ac.at"  # Set the email for commits
+          git config --global user.name "Lukas"  # Set the username for commits
+
+      # Step 3: Remove the .github folder and ensure it is ignored
       - name: Remove and ignore .github folder
         run: |
           cd 1BHIF-Pose-Private  # Change into the directory
@@ -29,7 +35,7 @@ jobs:
           git add .gitignore  # Add the .gitignore change
           git commit -m "Temporarily ignore .github folder"
 
-      # Step 3: Push to the public repository
+      # Step 4: Push to the public repository
       - name: Push to the public repository
         run: |
           cd 1BHIF-Pose-Private  # Make sure to be in the right directory
