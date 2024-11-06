@@ -24,4 +24,4 @@ jobs:
       - name: Push to the public repository
         run: |
           cd 1BHIF-Pose-Private  # Make sure to be in the right directory
-          git push https://${{ secrets.PUBLIC_REPO_TOKEN }}@github.com/lukasWastaken/1BHIF-Pose.git main --no-verify  # Push only the main branch to the public repository using the token for authentication
+          git push https://${{ secrets.PUBLIC_REPO_TOKEN }}@github.com/lukasWastaken/1BHIF-Pose.git master --no-verify  # Push only the main branch to the public repository using the token for authentication
