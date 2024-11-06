@@ -15,7 +15,11 @@ jobs:
       - uses: actions/checkout@v3
         with:
           token: ${{ secrets.PUBLIC_REPO_TOKEN }}  # Use your PAT here
-
+      #- name: Clean repository
+       # run: |
+        #    git gc --prune=now --aggressive
+         #   git fsck --full
+        
       - name: Set up Git config
         run: |
           git config --global user.name 'lukasWastaken'
@@ -25,4 +29,5 @@ jobs:
         run: git remote add public https://github.com/lukasWastaken/1BHIF-Pose
 
       - name: Push to public repository
-        run: git push -u public main -f
+        run: git push -u public main -f --no-verify
+      
