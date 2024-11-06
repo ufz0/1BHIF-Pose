@@ -23,7 +23,7 @@ jobs:
       # Step 2: Set Git user name and email
       - name: Set Git user
         run: |
-          git config --global user.email "l.leutgeb@students.htl-leonding.ac.at"  # Set the email for commits
+          git config --global user.email "l.leutgebl"  # Set the email for commits
           git config --global user.name "GitHub Actions"  # Set the username for commits
 
       # Step 3: Remove the .github folder and ensure it is ignored
