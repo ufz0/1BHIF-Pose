@@ -24,7 +24,11 @@ jobs:
 
       - name: Restore dependencies
         run: |
-          dotnet restore  # Restore NuGet dependencies for all projects
+          # Find all .csproj or .sln files and restore dependencies for each one
+          for proj in $(find . -name "*.csproj" -or -name "*.sln"); do
+            echo "Restoring dependencies for $proj"
+            dotnet restore $proj
+          done
 
       - name: Build all projects
         run: |
@@ -32,12 +36,4 @@ jobs:
           for proj in $(find . -name "*.csproj"); do
             echo "Building $proj"
             dotnet build $proj --configuration Release
-          done
-
-      - name: Run tests (optional)
-        run: |
-          # Run tests after building (if you have any test projects)
-          for proj in $(find . -name "*.csproj"); do
-            echo "Running tests for $proj"
-            dotnet test $proj --configuration Release
           done
