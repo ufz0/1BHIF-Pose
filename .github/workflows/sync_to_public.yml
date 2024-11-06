@@ -1,23 +1,28 @@
 name: Sync Private to Public
 
 on:
-    schedule:
-      - cron: "0 7 * * 0"  # Every Sunday at 08:00 CET
-    workflow_dispatch:     # Allows manual triggering
-  
-  
+  schedule:
+    - cron: "0 7 * * 0"  # Every Sunday at 08:00 CET
+  workflow_dispatch:      # Allows manual triggering
+
+permissions:
+  contents: write          # Grants write permissions to push changes
 
 jobs:
   sync:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout the private repository
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.PUBLIC_REPO_TOKEN }}  # Use your PAT here
+
+      - name: Set up Git config
+        run: |
+          git config --global user.name 'lukasWastaken'
+          git config --global user.email 'l.leutgeb@students.htl-leonding.ac.at'
 
       - name: Add the public repository as a remote
-        run: git remote add public https://${{ secrets.PUBLIC_REPO_TOKEN }}@github.com/lukasWastaken/1BHIF-Pose
-      
+        run: git remote add public https://github.com/lukasWastaken/1BHIF-Pose
 
       - name: Push to public repository
-        run: |
-          git push -u public main -f
+        run: git push -u public main -f
