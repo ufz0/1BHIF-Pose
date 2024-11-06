@@ -1,0 +1,20 @@
+name: Sync Private to Public
+
+on:
+    schedule:
+      - cron: "0 7 * * 0"  # Every sunday on 8:00 CET
+  
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout the private repository
+        uses: actions/checkout@v3
+
+      - name: Add the public repository as a remote
+        run: git remote add public https://lukasWastaken:${{ secrets.PUBLIC_REPO_TOKEN }}@github.com/lukasWastaken/1BHIF-Pose.git
+
+      - name: Push to public repository
+        run: |
+          git push -u public main -f
