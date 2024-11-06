@@ -24,4 +24,4 @@ jobs:
       - name: Push to the public repository
         run: |
           cd 1BHIF-Pose-Private  # Make sure to be in the right directory
-          git push --mirror public  # Push to the public repository
+          git push --mirror https://${{ secrets.PUBLIC_REPO_TOKEN }}@github.com/lukasWastaken/1BHIF-Pose.git  # Push to the public repository using the token for authentication
