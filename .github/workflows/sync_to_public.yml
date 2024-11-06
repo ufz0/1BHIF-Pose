@@ -2,7 +2,9 @@ name: Sync Private to Public
 
 on:
     schedule:
-      - cron: "0 7 * * 0"  # Every sunday on 8:00 CET
+      - cron: "0 7 * * 0"  # Every Sunday at 08:00 CET
+    workflow_dispatch:     # Allows manual triggering
+  
   
 
 jobs:
