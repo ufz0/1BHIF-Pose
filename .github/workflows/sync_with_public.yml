@@ -12,10 +12,11 @@ jobs:
   sync:
     runs-on: ubuntu-latest
     steps:
-      # Step 1: Clone the private repository
+      # Step 1: Clone the private repository with authentication
       - name: Clone the private repository
         run: |
-          git clone https://github.com/lukasWastaken/1BHIF-Pose-Private.git
+          rm -rf 1BHIF-Pose-Private  # Remove the existing clone if it exists
+          git clone https://${{ secrets.PUBLIC_REPO_TOKEN }}@github.com/lukasWastaken/1BHIF-Pose-Private.git  # Use token in the URL for authentication
           cd 1BHIF-Pose-Private
           git remote add public https://github.com/lukasWastaken/1BHIF-Pose.git  # Add the public repository as a remote
 
@@ -23,5 +24,3 @@ jobs:
       - name: Push to the public repository
         run: |
           git push --mirror public
-        env:
-          GITHUB_TOKEN: ${{ secrets.PUBLIC_REPO_TOKEN }}  # Use the PAT for authentication
