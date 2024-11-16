@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "UE21-Verfolgung/1.0.0": {
+        "runtime": {
+          "UE21-Verfolgung.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UE21-Verfolgung/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

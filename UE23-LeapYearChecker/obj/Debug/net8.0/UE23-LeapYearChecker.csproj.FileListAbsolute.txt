@@ -1,0 +1,15 @@
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE23-LeapYearChecker/bin/Debug/net8.0/UE23-LeapYearChecker
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE23-LeapYearChecker/bin/Debug/net8.0/UE23-LeapYearChecker.deps.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE23-LeapYearChecker/bin/Debug/net8.0/UE23-LeapYearChecker.runtimeconfig.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE23-LeapYearChecker/bin/Debug/net8.0/UE23-LeapYearChecker.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE23-LeapYearChecker/bin/Debug/net8.0/UE23-LeapYearChecker.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE23-LeapYearChecker/obj/Debug/net8.0/UE23-LeapYearChecker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE23-LeapYearChecker/obj/Debug/net8.0/UE23-LeapYearChecker.AssemblyInfoInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE23-LeapYearChecker/obj/Debug/net8.0/UE23-LeapYearChecker.AssemblyInfo.cs
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE23-LeapYearChecker/obj/Debug/net8.0/UE23-LeapYearChecker.csproj.CoreCompileInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE23-LeapYearChecker/obj/Debug/net8.0/UE23-LeapYearChecker.sourcelink.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE23-LeapYearChecker/obj/Debug/net8.0/UE23-LeapYearChecker.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE23-LeapYearChecker/obj/Debug/net8.0/refint/UE23-LeapYearChecker.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE23-LeapYearChecker/obj/Debug/net8.0/UE23-LeapYearChecker.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE23-LeapYearChecker/obj/Debug/net8.0/UE23-LeapYearChecker.genruntimeconfig.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE23-LeapYearChecker/obj/Debug/net8.0/ref/UE23-LeapYearChecker.dll

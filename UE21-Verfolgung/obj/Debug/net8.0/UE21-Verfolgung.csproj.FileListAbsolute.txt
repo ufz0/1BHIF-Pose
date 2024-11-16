@@ -1,0 +1,15 @@
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE21-Verfolgung/bin/Debug/net8.0/UE21-Verfolgung
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE21-Verfolgung/bin/Debug/net8.0/UE21-Verfolgung.deps.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE21-Verfolgung/bin/Debug/net8.0/UE21-Verfolgung.runtimeconfig.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE21-Verfolgung/bin/Debug/net8.0/UE21-Verfolgung.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE21-Verfolgung/bin/Debug/net8.0/UE21-Verfolgung.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE21-Verfolgung/obj/Debug/net8.0/UE21-Verfolgung.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE21-Verfolgung/obj/Debug/net8.0/UE21-Verfolgung.AssemblyInfoInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE21-Verfolgung/obj/Debug/net8.0/UE21-Verfolgung.AssemblyInfo.cs
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE21-Verfolgung/obj/Debug/net8.0/UE21-Verfolgung.csproj.CoreCompileInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE21-Verfolgung/obj/Debug/net8.0/UE21-Verfolgung.sourcelink.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE21-Verfolgung/obj/Debug/net8.0/UE21-Verfolgung.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE21-Verfolgung/obj/Debug/net8.0/refint/UE21-Verfolgung.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE21-Verfolgung/obj/Debug/net8.0/UE21-Verfolgung.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE21-Verfolgung/obj/Debug/net8.0/UE21-Verfolgung.genruntimeconfig.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE21-Verfolgung/obj/Debug/net8.0/ref/UE21-Verfolgung.dll

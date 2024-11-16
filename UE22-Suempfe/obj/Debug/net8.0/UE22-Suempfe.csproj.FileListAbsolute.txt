@@ -1,0 +1,15 @@
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE22-Suempfe/bin/Debug/net8.0/UE22-Suempfe
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE22-Suempfe/bin/Debug/net8.0/UE22-Suempfe.deps.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE22-Suempfe/bin/Debug/net8.0/UE22-Suempfe.runtimeconfig.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE22-Suempfe/bin/Debug/net8.0/UE22-Suempfe.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE22-Suempfe/bin/Debug/net8.0/UE22-Suempfe.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE22-Suempfe/obj/Debug/net8.0/UE22-Suempfe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE22-Suempfe/obj/Debug/net8.0/UE22-Suempfe.AssemblyInfoInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE22-Suempfe/obj/Debug/net8.0/UE22-Suempfe.AssemblyInfo.cs
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE22-Suempfe/obj/Debug/net8.0/UE22-Suempfe.csproj.CoreCompileInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE22-Suempfe/obj/Debug/net8.0/UE22-Suempfe.sourcelink.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE22-Suempfe/obj/Debug/net8.0/UE22-Suempfe.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE22-Suempfe/obj/Debug/net8.0/refint/UE22-Suempfe.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE22-Suempfe/obj/Debug/net8.0/UE22-Suempfe.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE22-Suempfe/obj/Debug/net8.0/UE22-Suempfe.genruntimeconfig.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE22-Suempfe/obj/Debug/net8.0/ref/UE22-Suempfe.dll
