@@ -27,14 +27,9 @@ namespace statistics
                     numberList.Add(number);
                     count++;
                 }
-                Console.WriteLine("Count: " + count);
-                Console.WriteLine("Length: " + numberList.Count);
+
             }
 
-            foreach(int i in numberList)
-            {
-                Console.WriteLine(i);
-            }
 
             foreach(int i in numberList)
             {
