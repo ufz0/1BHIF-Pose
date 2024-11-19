@@ -28,6 +28,7 @@ namespace verfolgung
                 double t = (v2 * x) / (v2 - v1);
 
                 int hours = (int)t;
+
                 int minutes = (int)((t - hours) * 60);
 
                 Console.WriteLine($"Gruppe 2 holt Gruppe 1 nach {hours} Stunden und {minutes} Minuten ein.");

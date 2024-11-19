@@ -1,0 +1,15 @@
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE24-Statistics/obj/Debug/net8.0/UE24-Statistics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE24-Statistics/obj/Debug/net8.0/UE24-Statistics.AssemblyInfoInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE24-Statistics/obj/Debug/net8.0/UE24-Statistics.AssemblyInfo.cs
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE24-Statistics/obj/Debug/net8.0/UE24-Statistics.csproj.CoreCompileInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE24-Statistics/obj/Debug/net8.0/UE24-Statistics.sourcelink.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE24-Statistics/bin/Debug/net8.0/UE24-Statistics
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE24-Statistics/bin/Debug/net8.0/UE24-Statistics.deps.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE24-Statistics/bin/Debug/net8.0/UE24-Statistics.runtimeconfig.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE24-Statistics/bin/Debug/net8.0/UE24-Statistics.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE24-Statistics/bin/Debug/net8.0/UE24-Statistics.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE24-Statistics/obj/Debug/net8.0/UE24-Statistics.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE24-Statistics/obj/Debug/net8.0/refint/UE24-Statistics.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE24-Statistics/obj/Debug/net8.0/UE24-Statistics.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE24-Statistics/obj/Debug/net8.0/UE24-Statistics.genruntimeconfig.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE24-Statistics/obj/Debug/net8.0/ref/UE24-Statistics.dll

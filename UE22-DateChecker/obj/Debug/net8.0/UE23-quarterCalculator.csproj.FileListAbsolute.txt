@@ -1,0 +1,15 @@
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE23-quarterCalculator/bin/Debug/net8.0/UE23-quarterCalculator
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE23-quarterCalculator/bin/Debug/net8.0/UE23-quarterCalculator.deps.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE23-quarterCalculator/bin/Debug/net8.0/UE23-quarterCalculator.runtimeconfig.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE23-quarterCalculator/bin/Debug/net8.0/UE23-quarterCalculator.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE23-quarterCalculator/bin/Debug/net8.0/UE23-quarterCalculator.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE23-quarterCalculator/obj/Debug/net8.0/UE23-quarterCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE23-quarterCalculator/obj/Debug/net8.0/UE23-quarterCalculator.AssemblyInfoInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE23-quarterCalculator/obj/Debug/net8.0/UE23-quarterCalculator.AssemblyInfo.cs
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE23-quarterCalculator/obj/Debug/net8.0/UE23-quarterCalculator.csproj.CoreCompileInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE23-quarterCalculator/obj/Debug/net8.0/UE23-quarterCalculator.sourcelink.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE23-quarterCalculator/obj/Debug/net8.0/UE23-quarterCalculator.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE23-quarterCalculator/obj/Debug/net8.0/refint/UE23-quarterCalculator.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE23-quarterCalculator/obj/Debug/net8.0/UE23-quarterCalculator.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE23-quarterCalculator/obj/Debug/net8.0/UE23-quarterCalculator.genruntimeconfig.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE23-quarterCalculator/obj/Debug/net8.0/ref/UE23-quarterCalculator.dll
