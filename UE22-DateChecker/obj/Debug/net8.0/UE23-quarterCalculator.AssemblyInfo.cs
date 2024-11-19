@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UE23-quarterCalculator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c7c53b97946d5ffe579ce13c0339c56ab3c8d44")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+05fdc497c382425c46b52c7cede4ee8517e13823")]
 [assembly: System.Reflection.AssemblyProductAttribute("UE23-quarterCalculator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UE23-quarterCalculator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

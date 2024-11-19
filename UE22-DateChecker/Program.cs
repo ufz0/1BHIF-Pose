@@ -50,7 +50,7 @@ namespace quarterCalculator
                 isValidDate = false;
             }
             
-            if(month % 2 != 0 || month != 7)
+            if(month % 2 != 0 && month < 8 || month % 2 == 0 && month > 7)
             {
                 if(days > 30)
                 {
