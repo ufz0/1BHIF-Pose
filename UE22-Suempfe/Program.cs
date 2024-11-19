@@ -42,11 +42,11 @@ namespace celinischeSuempfe
                 {
                     stamm = "Asis";
                 }
-                if(hasKnelt && !(isManuseling) && isNopeling)
+                if(hasKnelt && !isManuseling && isNopeling)
                 {
                     stamm = "Cedi";
                 }
-                if(hasKnelt && !(isManuseling) && !(isNopeling))
+                if(hasKnelt && !isManuseling && !(isNopeling))
                 {
                     stamm = "Drudi";
                 }

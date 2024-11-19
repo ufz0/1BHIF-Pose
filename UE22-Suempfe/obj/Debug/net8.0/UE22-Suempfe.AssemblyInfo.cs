@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UE22-Suempfe")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1229a618654fab4da70bbd93bd9eec83ca1f9199")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c9b0b8d0725e3ac4ba71400c0bcf6ed7687d28b")]
 [assembly: System.Reflection.AssemblyProductAttribute("UE22-Suempfe")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UE22-Suempfe")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
