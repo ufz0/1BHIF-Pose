@@ -7,13 +7,12 @@ namespace statistics
     {
         static void Main()
         {
-            int count = 0;
-            int number = 1;     
-            List<int> numberList = new List<int>();
-            int sum = 0;
-            int greatest = 0;
-            int numberListCount = 0;
-            int middleValue = 0;
+            var count = 0;
+            var number = 1;     
+            var numberList = new List<int>();
+            var sum = 0;
+            var numberListCount = 0;
+            var middleValue = 0;
 
             Console.WriteLine("Some Statistics");
             Console.WriteLine("===============");
@@ -30,19 +29,9 @@ namespace statistics
 
             }
 
+            sum = numberList.Sum();
 
-            foreach(int i in numberList)
-            {
-                sum += i;
-            }
-
-            foreach(int i in numberList)
-            {
-                if(i > greatest)
-                {
-                    greatest = i;
-                }
-            }
+            var greatest = numberList.Prepend(0).Max();
 
             numberListCount = numberList.Count;
             if (numberListCount > 0)

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UE24-Statistics")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5d96ca59eecbfe13280c60c61b86b61c68da386f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+71afdaf0032f0fb0e5a81b2a7770a099aefa1cf6")]
 [assembly: System.Reflection.AssemblyProductAttribute("UE24-Statistics")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UE24-Statistics")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
