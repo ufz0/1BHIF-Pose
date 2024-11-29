@@ -26,6 +26,7 @@ namespace vocabTrainer
             Console.Write("Enter the german translation: ");
             germanWord = Console.ReadLine();
 
+            Console.Clear();
 
             Console.WriteLine("\nStudent part: ");
             Console.WriteLine($"Enter the german translation for {englishWord}:");
