@@ -1,0 +1,15 @@
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE27-VocabTrainer/obj/Debug/net8.0/UE27-VocabTrainer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE27-VocabTrainer/obj/Debug/net8.0/UE27-VocabTrainer.AssemblyInfoInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE27-VocabTrainer/obj/Debug/net8.0/UE27-VocabTrainer.AssemblyInfo.cs
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE27-VocabTrainer/obj/Debug/net8.0/UE27-VocabTrainer.csproj.CoreCompileInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE27-VocabTrainer/obj/Debug/net8.0/UE27-VocabTrainer.sourcelink.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE27-VocabTrainer/bin/Debug/net8.0/UE27-VocabTrainer
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE27-VocabTrainer/bin/Debug/net8.0/UE27-VocabTrainer.deps.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE27-VocabTrainer/bin/Debug/net8.0/UE27-VocabTrainer.runtimeconfig.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE27-VocabTrainer/bin/Debug/net8.0/UE27-VocabTrainer.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE27-VocabTrainer/bin/Debug/net8.0/UE27-VocabTrainer.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE27-VocabTrainer/obj/Debug/net8.0/UE27-VocabTrainer.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE27-VocabTrainer/obj/Debug/net8.0/refint/UE27-VocabTrainer.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE27-VocabTrainer/obj/Debug/net8.0/UE27-VocabTrainer.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE27-VocabTrainer/obj/Debug/net8.0/UE27-VocabTrainer.genruntimeconfig.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE27-VocabTrainer/obj/Debug/net8.0/ref/UE27-VocabTrainer.dll

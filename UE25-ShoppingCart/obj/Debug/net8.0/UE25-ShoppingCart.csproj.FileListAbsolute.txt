@@ -1,0 +1,15 @@
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE25-ShoppingCart/obj/Debug/net8.0/UE25-ShoppingCart.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE25-ShoppingCart/obj/Debug/net8.0/UE25-ShoppingCart.AssemblyInfoInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE25-ShoppingCart/obj/Debug/net8.0/UE25-ShoppingCart.AssemblyInfo.cs
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE25-ShoppingCart/obj/Debug/net8.0/UE25-ShoppingCart.csproj.CoreCompileInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE25-ShoppingCart/obj/Debug/net8.0/UE25-ShoppingCart.sourcelink.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE25-ShoppingCart/bin/Debug/net8.0/UE25-ShoppingCart
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE25-ShoppingCart/bin/Debug/net8.0/UE25-ShoppingCart.deps.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE25-ShoppingCart/bin/Debug/net8.0/UE25-ShoppingCart.runtimeconfig.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE25-ShoppingCart/bin/Debug/net8.0/UE25-ShoppingCart.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE25-ShoppingCart/bin/Debug/net8.0/UE25-ShoppingCart.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE25-ShoppingCart/obj/Debug/net8.0/UE25-ShoppingCart.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE25-ShoppingCart/obj/Debug/net8.0/refint/UE25-ShoppingCart.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE25-ShoppingCart/obj/Debug/net8.0/UE25-ShoppingCart.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE25-ShoppingCart/obj/Debug/net8.0/UE25-ShoppingCart.genruntimeconfig.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE25-ShoppingCart/obj/Debug/net8.0/ref/UE25-ShoppingCart.dll

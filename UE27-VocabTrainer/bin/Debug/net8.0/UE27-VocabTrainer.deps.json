@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "UE27-VocabTrainer/1.0.0": {
+        "runtime": {
+          "UE27-VocabTrainer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UE27-VocabTrainer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

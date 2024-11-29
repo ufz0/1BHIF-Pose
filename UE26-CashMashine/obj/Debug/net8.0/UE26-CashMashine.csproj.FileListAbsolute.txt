@@ -1,0 +1,15 @@
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE26-CashMashine/bin/Debug/net8.0/UE26-CashMashine
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE26-CashMashine/bin/Debug/net8.0/UE26-CashMashine.deps.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE26-CashMashine/bin/Debug/net8.0/UE26-CashMashine.runtimeconfig.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE26-CashMashine/bin/Debug/net8.0/UE26-CashMashine.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE26-CashMashine/bin/Debug/net8.0/UE26-CashMashine.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE26-CashMashine/obj/Debug/net8.0/UE26-CashMashine.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE26-CashMashine/obj/Debug/net8.0/UE26-CashMashine.AssemblyInfoInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE26-CashMashine/obj/Debug/net8.0/UE26-CashMashine.AssemblyInfo.cs
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE26-CashMashine/obj/Debug/net8.0/UE26-CashMashine.csproj.CoreCompileInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE26-CashMashine/obj/Debug/net8.0/UE26-CashMashine.sourcelink.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE26-CashMashine/obj/Debug/net8.0/UE26-CashMashine.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE26-CashMashine/obj/Debug/net8.0/refint/UE26-CashMashine.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE26-CashMashine/obj/Debug/net8.0/UE26-CashMashine.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE26-CashMashine/obj/Debug/net8.0/UE26-CashMashine.genruntimeconfig.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE26-CashMashine/obj/Debug/net8.0/ref/UE26-CashMashine.dll
