@@ -1,0 +1,15 @@
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE29-Zahlenraten/obj/Debug/net8.0/UE29-Zahlenraten.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE29-Zahlenraten/obj/Debug/net8.0/UE29-Zahlenraten.AssemblyInfoInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE29-Zahlenraten/obj/Debug/net8.0/UE29-Zahlenraten.AssemblyInfo.cs
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE29-Zahlenraten/obj/Debug/net8.0/UE29-Zahlenraten.csproj.CoreCompileInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE29-Zahlenraten/obj/Debug/net8.0/UE29-Zahlenraten.sourcelink.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE29-Zahlenraten/bin/Debug/net8.0/UE29-Zahlenraten
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE29-Zahlenraten/bin/Debug/net8.0/UE29-Zahlenraten.deps.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE29-Zahlenraten/bin/Debug/net8.0/UE29-Zahlenraten.runtimeconfig.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE29-Zahlenraten/bin/Debug/net8.0/UE29-Zahlenraten.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE29-Zahlenraten/bin/Debug/net8.0/UE29-Zahlenraten.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE29-Zahlenraten/obj/Debug/net8.0/UE29-Zahlenraten.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE29-Zahlenraten/obj/Debug/net8.0/refint/UE29-Zahlenraten.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE29-Zahlenraten/obj/Debug/net8.0/UE29-Zahlenraten.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE29-Zahlenraten/obj/Debug/net8.0/UE29-Zahlenraten.genruntimeconfig.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE29-Zahlenraten/obj/Debug/net8.0/ref/UE29-Zahlenraten.dll

@@ -1,0 +1,30 @@
+Start: x = 4, y = 3, z = 0
+Nach 0. Iteration:
+x = 4, y = 3, z = 3
+
+Nach 1. Iteration:
+x = 5, y = 4, z = 6
+
+Nach 2. Iteration:
+x = 7, y = 6, z = 10
+
+Nach 3. Iteration:
+x = 10, y = 9, z = 16
+
+Nach 4. Iteration:
+x = 14, y = 13, z = 25
+
+Nach 5. Iteration:
+x = 19, y = 18, z = 38
+
+Nach 6. Iteration:
+x = 25, y = 24, z = 56
+
+Nach 7. Iteration:
+x = 32, y = 31, z = 80
+
+Nach 8. Iteration:
+x = 40, y = 39, z = 111
+
+Nach 9. Iteration:
+x = 49, y = 48, z = 150

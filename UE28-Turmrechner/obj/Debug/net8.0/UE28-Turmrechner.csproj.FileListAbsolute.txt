@@ -1,0 +1,15 @@
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE28-Turmrechner/bin/Debug/net8.0/UE28-Turmrechner
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE28-Turmrechner/bin/Debug/net8.0/UE28-Turmrechner.deps.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE28-Turmrechner/bin/Debug/net8.0/UE28-Turmrechner.runtimeconfig.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE28-Turmrechner/bin/Debug/net8.0/UE28-Turmrechner.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE28-Turmrechner/bin/Debug/net8.0/UE28-Turmrechner.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE28-Turmrechner/obj/Debug/net8.0/UE28-Turmrechner.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE28-Turmrechner/obj/Debug/net8.0/UE28-Turmrechner.AssemblyInfoInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE28-Turmrechner/obj/Debug/net8.0/UE28-Turmrechner.AssemblyInfo.cs
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE28-Turmrechner/obj/Debug/net8.0/UE28-Turmrechner.csproj.CoreCompileInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE28-Turmrechner/obj/Debug/net8.0/UE28-Turmrechner.sourcelink.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE28-Turmrechner/obj/Debug/net8.0/UE28-Turmrechner.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE28-Turmrechner/obj/Debug/net8.0/refint/UE28-Turmrechner.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE28-Turmrechner/obj/Debug/net8.0/UE28-Turmrechner.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE28-Turmrechner/obj/Debug/net8.0/UE28-Turmrechner.genruntimeconfig.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE28-Turmrechner/obj/Debug/net8.0/ref/UE28-Turmrechner.dll

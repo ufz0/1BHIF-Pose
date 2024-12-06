@@ -1,0 +1,15 @@
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE30-Fakultaet/bin/Debug/net8.0/UE30-Fakultaet
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE30-Fakultaet/bin/Debug/net8.0/UE30-Fakultaet.deps.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE30-Fakultaet/bin/Debug/net8.0/UE30-Fakultaet.runtimeconfig.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE30-Fakultaet/bin/Debug/net8.0/UE30-Fakultaet.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE30-Fakultaet/bin/Debug/net8.0/UE30-Fakultaet.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE30-Fakultaet/obj/Debug/net8.0/UE30-Fakultaet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE30-Fakultaet/obj/Debug/net8.0/UE30-Fakultaet.AssemblyInfoInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE30-Fakultaet/obj/Debug/net8.0/UE30-Fakultaet.AssemblyInfo.cs
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE30-Fakultaet/obj/Debug/net8.0/UE30-Fakultaet.csproj.CoreCompileInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE30-Fakultaet/obj/Debug/net8.0/UE30-Fakultaet.sourcelink.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE30-Fakultaet/obj/Debug/net8.0/UE30-Fakultaet.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE30-Fakultaet/obj/Debug/net8.0/refint/UE30-Fakultaet.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE30-Fakultaet/obj/Debug/net8.0/UE30-Fakultaet.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE30-Fakultaet/obj/Debug/net8.0/UE30-Fakultaet.genruntimeconfig.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE30-Fakultaet/obj/Debug/net8.0/ref/UE30-Fakultaet.dll

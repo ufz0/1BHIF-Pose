@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "UE30-Fakultaet/1.0.0": {
+        "runtime": {
+          "UE30-Fakultaet.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UE30-Fakultaet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
