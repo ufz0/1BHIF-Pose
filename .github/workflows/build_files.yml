@@ -14,8 +14,8 @@ jobs:
     runs-on: ubuntu-latest  # Or windows-latest if you prefer to use Windows for compilation
     strategy:
       matrix:
-        #dotnet-version: [5.x, 6.x, 7.x, 8.x]
-        dotnet-version: [8.x]
+        dotnet-version: [5.x, 6.x, 7.x, 8.x]
+
 
     steps:
       - name: Checkout code
