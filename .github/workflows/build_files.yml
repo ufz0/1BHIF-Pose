@@ -12,6 +12,9 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest  # Or windows-latest if you prefer to use Windows for compilation
+    strategy:
+      matrix:
+        dotnet-version: [5.x, 6.x, 7.x, 8.x]  # Test across multiple .NET versions
 
     steps:
       - name: Checkout code
@@ -20,7 +23,7 @@ jobs:
       - name: Set up .NET SDK
         uses: actions/setup-dotnet@v3
         with:
-          dotnet-version: '6.x'  # Use the version that matches your project setup
+          dotnet-version: ${{ matrix.dotnet-version }}  # Use the version specified in the matrix
 
       - name: Restore dependencies
         run: |
