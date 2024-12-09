@@ -14,35 +14,40 @@ jobs:
     runs-on: ubuntu-latest  # Or windows-latest if you prefer to use Windows for compilation
     strategy:
       matrix:
-        dotnet-version: [5.x, 6.x, 7.x, 8.x]
-
+        dotnet-version: [5.x, 6.x, 7.x, 8.x]  # Test across multiple .NET versions
 
     steps:
       - name: Checkout code
         uses: actions/checkout@v3  # Checks out the code to the runner
-
-      - name: Set up .NET SDK
-        uses: actions/setup-dotnet@v3
-        with:
-          dotnet-version: ${{ matrix.dotnet-version }}  # Use the version specified in the matrix
 
       - name: Install required dependencies
         run: |
           sudo apt-get update
           sudo apt-get install -y libssl1.1 || sudo apt-get install -y libssl3
 
+      - name: Set up .NET SDK
+        uses: actions/setup-dotnet@v3
+        with:
+          dotnet-version: ${{ matrix.dotnet-version }}  # Use the version specified in the matrix
+
       - name: Restore dependencies
         run: |
-          # Find all .csproj or .sln files and restore dependencies for each one
           for proj in $(find . -name "*.csproj" -or -name "*.sln"); do
+            if grep -q "<TargetFramework>.*net8.0" $proj && [[ "${{ matrix.dotnet-version }}" == "6.x" || "${{ matrix.dotnet-version }}" == "5.x" ]]; then
+              echo "Skipping $proj for .NET ${{ matrix.dotnet-version }} (incompatible target framework)"
+              continue
+            fi
             echo "Restoring dependencies for $proj"
             dotnet restore $proj
           done
 
       - name: Build all projects
         run: |
-          # Find all .csproj files and build each one
           for proj in $(find . -name "*.csproj"); do
+            if grep -q "<TargetFramework>.*net8.0" $proj && [[ "${{ matrix.dotnet-version }}" == "6.x" || "${{ matrix.dotnet-version }}" == "5.x" ]]; then
+              echo "Skipping $proj for .NET ${{ matrix.dotnet-version }} (incompatible target framework)"
+              continue
+            fi
             echo "Building $proj"
             dotnet build $proj --configuration Release
           done
