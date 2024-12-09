@@ -29,6 +29,7 @@ jobs:
             echo "Restoring dependencies for $proj"
             dotnet restore $proj
           done
+
       - name: Build all projects
         run: |
           # Find all .csproj files and build each one
