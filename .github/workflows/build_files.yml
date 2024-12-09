@@ -26,6 +26,11 @@ jobs:
         with:
           dotnet-version: ${{ matrix.dotnet-version }}  # Use the version specified in the matrix
 
+      - name: Install required dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y libssl1.1 || sudo apt-get install -y libssl3
+
       - name: Restore dependencies
         run: |
           # Find all .csproj or .sln files and restore dependencies for each one
