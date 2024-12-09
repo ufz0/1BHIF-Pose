@@ -1,0 +1,15 @@
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/Quiz2/obj/Debug/net8.0/Quiz2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/Quiz2/obj/Debug/net8.0/Quiz2.AssemblyInfoInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/Quiz2/obj/Debug/net8.0/Quiz2.AssemblyInfo.cs
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/Quiz2/obj/Debug/net8.0/Quiz2.csproj.CoreCompileInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/Quiz2/obj/Debug/net8.0/Quiz2.sourcelink.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/Quiz2/bin/Debug/net8.0/Quiz2
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/Quiz2/bin/Debug/net8.0/Quiz2.deps.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/Quiz2/bin/Debug/net8.0/Quiz2.runtimeconfig.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/Quiz2/bin/Debug/net8.0/Quiz2.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/Quiz2/bin/Debug/net8.0/Quiz2.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/Quiz2/obj/Debug/net8.0/Quiz2.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/Quiz2/obj/Debug/net8.0/refint/Quiz2.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/Quiz2/obj/Debug/net8.0/Quiz2.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/Quiz2/obj/Debug/net8.0/Quiz2.genruntimeconfig.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/Quiz2/obj/Debug/net8.0/ref/Quiz2.dll
