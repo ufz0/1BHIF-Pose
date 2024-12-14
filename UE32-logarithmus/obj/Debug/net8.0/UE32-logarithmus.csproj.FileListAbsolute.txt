@@ -1,0 +1,15 @@
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE32-logarithmus/obj/Debug/net8.0/UE32-logarithmus.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE32-logarithmus/obj/Debug/net8.0/UE32-logarithmus.AssemblyInfoInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE32-logarithmus/obj/Debug/net8.0/UE32-logarithmus.AssemblyInfo.cs
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE32-logarithmus/obj/Debug/net8.0/UE32-logarithmus.csproj.CoreCompileInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE32-logarithmus/obj/Debug/net8.0/UE32-logarithmus.sourcelink.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE32-logarithmus/bin/Debug/net8.0/UE32-logarithmus
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE32-logarithmus/bin/Debug/net8.0/UE32-logarithmus.deps.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE32-logarithmus/bin/Debug/net8.0/UE32-logarithmus.runtimeconfig.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE32-logarithmus/bin/Debug/net8.0/UE32-logarithmus.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE32-logarithmus/bin/Debug/net8.0/UE32-logarithmus.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE32-logarithmus/obj/Debug/net8.0/UE32-logarithmus.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE32-logarithmus/obj/Debug/net8.0/refint/UE32-logarithmus.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE32-logarithmus/obj/Debug/net8.0/UE32-logarithmus.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE32-logarithmus/obj/Debug/net8.0/UE32-logarithmus.genruntimeconfig.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE32-logarithmus/obj/Debug/net8.0/ref/UE32-logarithmus.dll

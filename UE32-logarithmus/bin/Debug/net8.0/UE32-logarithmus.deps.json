@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "UE32-logarithmus/1.0.0": {
+        "runtime": {
+          "UE32-logarithmus.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UE32-logarithmus/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

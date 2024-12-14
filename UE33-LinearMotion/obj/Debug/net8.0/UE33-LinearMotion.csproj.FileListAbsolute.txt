@@ -1,0 +1,15 @@
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE33-LinearMotion/bin/Debug/net8.0/UE33-LinearMotion
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE33-LinearMotion/bin/Debug/net8.0/UE33-LinearMotion.deps.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE33-LinearMotion/bin/Debug/net8.0/UE33-LinearMotion.runtimeconfig.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE33-LinearMotion/bin/Debug/net8.0/UE33-LinearMotion.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE33-LinearMotion/bin/Debug/net8.0/UE33-LinearMotion.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE33-LinearMotion/obj/Debug/net8.0/UE33-LinearMotion.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE33-LinearMotion/obj/Debug/net8.0/UE33-LinearMotion.AssemblyInfoInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE33-LinearMotion/obj/Debug/net8.0/UE33-LinearMotion.AssemblyInfo.cs
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE33-LinearMotion/obj/Debug/net8.0/UE33-LinearMotion.csproj.CoreCompileInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE33-LinearMotion/obj/Debug/net8.0/UE33-LinearMotion.sourcelink.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE33-LinearMotion/obj/Debug/net8.0/UE33-LinearMotion.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE33-LinearMotion/obj/Debug/net8.0/refint/UE33-LinearMotion.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE33-LinearMotion/obj/Debug/net8.0/UE33-LinearMotion.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE33-LinearMotion/obj/Debug/net8.0/UE33-LinearMotion.genruntimeconfig.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE33-LinearMotion/obj/Debug/net8.0/ref/UE33-LinearMotion.dll

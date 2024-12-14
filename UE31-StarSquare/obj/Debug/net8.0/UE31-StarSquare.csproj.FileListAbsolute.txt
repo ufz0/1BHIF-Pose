@@ -1,0 +1,15 @@
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE31-StarSquare/bin/Debug/net8.0/UE31-StarSquare
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE31-StarSquare/bin/Debug/net8.0/UE31-StarSquare.deps.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE31-StarSquare/bin/Debug/net8.0/UE31-StarSquare.runtimeconfig.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE31-StarSquare/bin/Debug/net8.0/UE31-StarSquare.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE31-StarSquare/bin/Debug/net8.0/UE31-StarSquare.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE31-StarSquare/obj/Debug/net8.0/UE31-StarSquare.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE31-StarSquare/obj/Debug/net8.0/UE31-StarSquare.AssemblyInfoInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE31-StarSquare/obj/Debug/net8.0/UE31-StarSquare.AssemblyInfo.cs
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE31-StarSquare/obj/Debug/net8.0/UE31-StarSquare.csproj.CoreCompileInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE31-StarSquare/obj/Debug/net8.0/UE31-StarSquare.sourcelink.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE31-StarSquare/obj/Debug/net8.0/UE31-StarSquare.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE31-StarSquare/obj/Debug/net8.0/refint/UE31-StarSquare.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE31-StarSquare/obj/Debug/net8.0/UE31-StarSquare.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE31-StarSquare/obj/Debug/net8.0/UE31-StarSquare.genruntimeconfig.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE31-StarSquare/obj/Debug/net8.0/ref/UE31-StarSquare.dll
