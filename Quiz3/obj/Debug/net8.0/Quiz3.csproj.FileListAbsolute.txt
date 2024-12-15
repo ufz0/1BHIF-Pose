@@ -1,0 +1,15 @@
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/Quiz3/bin/Debug/net8.0/Quiz3
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/Quiz3/bin/Debug/net8.0/Quiz3.deps.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/Quiz3/bin/Debug/net8.0/Quiz3.runtimeconfig.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/Quiz3/bin/Debug/net8.0/Quiz3.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/Quiz3/bin/Debug/net8.0/Quiz3.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/Quiz3/obj/Debug/net8.0/Quiz3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/Quiz3/obj/Debug/net8.0/Quiz3.AssemblyInfoInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/Quiz3/obj/Debug/net8.0/Quiz3.AssemblyInfo.cs
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/Quiz3/obj/Debug/net8.0/Quiz3.csproj.CoreCompileInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/Quiz3/obj/Debug/net8.0/Quiz3.sourcelink.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/Quiz3/obj/Debug/net8.0/Quiz3.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/Quiz3/obj/Debug/net8.0/refint/Quiz3.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/Quiz3/obj/Debug/net8.0/Quiz3.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/Quiz3/obj/Debug/net8.0/Quiz3.genruntimeconfig.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/Quiz3/obj/Debug/net8.0/ref/Quiz3.dll
