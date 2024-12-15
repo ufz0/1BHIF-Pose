@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UE33-LinearMotion")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ba98dc1513a793bf4dbaf2fe38ee30ce1c7cb256")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+04880cf5af1107bad98a589a6d38e0e1c124dacd")]
 [assembly: System.Reflection.AssemblyProductAttribute("UE33-LinearMotion")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UE33-LinearMotion")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
