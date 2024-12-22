@@ -1,0 +1,15 @@
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE34-PrimNumberChecker/bin/Debug/net8.0/UE34-PrimNumberChecker
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE34-PrimNumberChecker/bin/Debug/net8.0/UE34-PrimNumberChecker.deps.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE34-PrimNumberChecker/bin/Debug/net8.0/UE34-PrimNumberChecker.runtimeconfig.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE34-PrimNumberChecker/bin/Debug/net8.0/UE34-PrimNumberChecker.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE34-PrimNumberChecker/bin/Debug/net8.0/UE34-PrimNumberChecker.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE34-PrimNumberChecker/obj/Debug/net8.0/UE34-PrimNumberChecker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE34-PrimNumberChecker/obj/Debug/net8.0/UE34-PrimNumberChecker.AssemblyInfoInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE34-PrimNumberChecker/obj/Debug/net8.0/UE34-PrimNumberChecker.AssemblyInfo.cs
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE34-PrimNumberChecker/obj/Debug/net8.0/UE34-PrimNumberChecker.csproj.CoreCompileInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE34-PrimNumberChecker/obj/Debug/net8.0/UE34-PrimNumberChecker.sourcelink.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE34-PrimNumberChecker/obj/Debug/net8.0/UE34-PrimNumberChecker.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE34-PrimNumberChecker/obj/Debug/net8.0/refint/UE34-PrimNumberChecker.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE34-PrimNumberChecker/obj/Debug/net8.0/UE34-PrimNumberChecker.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE34-PrimNumberChecker/obj/Debug/net8.0/UE34-PrimNumberChecker.genruntimeconfig.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE34-PrimNumberChecker/obj/Debug/net8.0/ref/UE34-PrimNumberChecker.dll

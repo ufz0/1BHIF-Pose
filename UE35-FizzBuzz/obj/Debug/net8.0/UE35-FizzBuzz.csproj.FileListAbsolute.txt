@@ -1,0 +1,15 @@
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE35-FizzBuzz/bin/Debug/net8.0/UE35-FizzBuzz
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE35-FizzBuzz/bin/Debug/net8.0/UE35-FizzBuzz.deps.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE35-FizzBuzz/bin/Debug/net8.0/UE35-FizzBuzz.runtimeconfig.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE35-FizzBuzz/bin/Debug/net8.0/UE35-FizzBuzz.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE35-FizzBuzz/bin/Debug/net8.0/UE35-FizzBuzz.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE35-FizzBuzz/obj/Debug/net8.0/UE35-FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE35-FizzBuzz/obj/Debug/net8.0/UE35-FizzBuzz.AssemblyInfoInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE35-FizzBuzz/obj/Debug/net8.0/UE35-FizzBuzz.AssemblyInfo.cs
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE35-FizzBuzz/obj/Debug/net8.0/UE35-FizzBuzz.csproj.CoreCompileInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE35-FizzBuzz/obj/Debug/net8.0/UE35-FizzBuzz.sourcelink.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE35-FizzBuzz/obj/Debug/net8.0/UE35-FizzBuzz.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE35-FizzBuzz/obj/Debug/net8.0/refint/UE35-FizzBuzz.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE35-FizzBuzz/obj/Debug/net8.0/UE35-FizzBuzz.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE35-FizzBuzz/obj/Debug/net8.0/UE35-FizzBuzz.genruntimeconfig.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE35-FizzBuzz/obj/Debug/net8.0/ref/UE35-FizzBuzz.dll

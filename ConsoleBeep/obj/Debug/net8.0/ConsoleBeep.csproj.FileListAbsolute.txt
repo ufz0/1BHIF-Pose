@@ -1,0 +1,15 @@
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/ConsoleBeep/bin/Debug/net8.0/ConsoleBeep
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/ConsoleBeep/bin/Debug/net8.0/ConsoleBeep.deps.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/ConsoleBeep/bin/Debug/net8.0/ConsoleBeep.runtimeconfig.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/ConsoleBeep/bin/Debug/net8.0/ConsoleBeep.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/ConsoleBeep/bin/Debug/net8.0/ConsoleBeep.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/ConsoleBeep/obj/Debug/net8.0/ConsoleBeep.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/ConsoleBeep/obj/Debug/net8.0/ConsoleBeep.AssemblyInfoInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/ConsoleBeep/obj/Debug/net8.0/ConsoleBeep.AssemblyInfo.cs
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/ConsoleBeep/obj/Debug/net8.0/ConsoleBeep.csproj.CoreCompileInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/ConsoleBeep/obj/Debug/net8.0/ConsoleBeep.sourcelink.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/ConsoleBeep/obj/Debug/net8.0/ConsoleBeep.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/ConsoleBeep/obj/Debug/net8.0/refint/ConsoleBeep.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/ConsoleBeep/obj/Debug/net8.0/ConsoleBeep.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/ConsoleBeep/obj/Debug/net8.0/ConsoleBeep.genruntimeconfig.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/ConsoleBeep/obj/Debug/net8.0/ref/ConsoleBeep.dll

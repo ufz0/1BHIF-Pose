@@ -1,0 +1,15 @@
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE36-ChristmasTree/bin/Debug/net8.0/UE36-ChristmasTree
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE36-ChristmasTree/bin/Debug/net8.0/UE36-ChristmasTree.deps.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE36-ChristmasTree/bin/Debug/net8.0/UE36-ChristmasTree.runtimeconfig.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE36-ChristmasTree/bin/Debug/net8.0/UE36-ChristmasTree.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE36-ChristmasTree/bin/Debug/net8.0/UE36-ChristmasTree.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE36-ChristmasTree/obj/Debug/net8.0/UE36-ChristmasTree.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE36-ChristmasTree/obj/Debug/net8.0/UE36-ChristmasTree.AssemblyInfoInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE36-ChristmasTree/obj/Debug/net8.0/UE36-ChristmasTree.AssemblyInfo.cs
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE36-ChristmasTree/obj/Debug/net8.0/UE36-ChristmasTree.csproj.CoreCompileInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE36-ChristmasTree/obj/Debug/net8.0/UE36-ChristmasTree.sourcelink.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE36-ChristmasTree/obj/Debug/net8.0/UE36-ChristmasTree.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE36-ChristmasTree/obj/Debug/net8.0/refint/UE36-ChristmasTree.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE36-ChristmasTree/obj/Debug/net8.0/UE36-ChristmasTree.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE36-ChristmasTree/obj/Debug/net8.0/UE36-ChristmasTree.genruntimeconfig.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE36-ChristmasTree/obj/Debug/net8.0/ref/UE36-ChristmasTree.dll

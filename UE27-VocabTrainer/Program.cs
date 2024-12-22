@@ -1,7 +1,4 @@
-﻿// Expert part dynamisch, schülerpart statisch
-
-
-using System;
+﻿using System;
 
 namespace vocabTrainer
 {
