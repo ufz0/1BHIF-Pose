@@ -1,0 +1,15 @@
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE41-SplitString/bin/Debug/net8.0/UE41-SplitString
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE41-SplitString/bin/Debug/net8.0/UE41-SplitString.deps.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE41-SplitString/bin/Debug/net8.0/UE41-SplitString.runtimeconfig.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE41-SplitString/bin/Debug/net8.0/UE41-SplitString.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE41-SplitString/bin/Debug/net8.0/UE41-SplitString.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE41-SplitString/obj/Debug/net8.0/UE41-SplitString.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE41-SplitString/obj/Debug/net8.0/UE41-SplitString.AssemblyInfoInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE41-SplitString/obj/Debug/net8.0/UE41-SplitString.AssemblyInfo.cs
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE41-SplitString/obj/Debug/net8.0/UE41-SplitString.csproj.CoreCompileInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE41-SplitString/obj/Debug/net8.0/UE41-SplitString.sourcelink.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE41-SplitString/obj/Debug/net8.0/UE41-SplitString.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE41-SplitString/obj/Debug/net8.0/refint/UE41-SplitString.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE41-SplitString/obj/Debug/net8.0/UE41-SplitString.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE41-SplitString/obj/Debug/net8.0/UE41-SplitString.genruntimeconfig.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE41-SplitString/obj/Debug/net8.0/ref/UE41-SplitString.dll

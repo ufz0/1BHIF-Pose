@@ -1,0 +1,15 @@
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE42-AsciiTable/bin/Debug/net8.0/UE42-AsciiTable
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE42-AsciiTable/bin/Debug/net8.0/UE42-AsciiTable.deps.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE42-AsciiTable/bin/Debug/net8.0/UE42-AsciiTable.runtimeconfig.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE42-AsciiTable/bin/Debug/net8.0/UE42-AsciiTable.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE42-AsciiTable/bin/Debug/net8.0/UE42-AsciiTable.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE42-AsciiTable/obj/Debug/net8.0/UE42-AsciiTable.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE42-AsciiTable/obj/Debug/net8.0/UE42-AsciiTable.AssemblyInfoInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE42-AsciiTable/obj/Debug/net8.0/UE42-AsciiTable.AssemblyInfo.cs
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE42-AsciiTable/obj/Debug/net8.0/UE42-AsciiTable.csproj.CoreCompileInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE42-AsciiTable/obj/Debug/net8.0/UE42-AsciiTable.sourcelink.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE42-AsciiTable/obj/Debug/net8.0/UE42-AsciiTable.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE42-AsciiTable/obj/Debug/net8.0/refint/UE42-AsciiTable.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE42-AsciiTable/obj/Debug/net8.0/UE42-AsciiTable.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE42-AsciiTable/obj/Debug/net8.0/UE42-AsciiTable.genruntimeconfig.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE42-AsciiTable/obj/Debug/net8.0/ref/UE42-AsciiTable.dll

@@ -1,0 +1,15 @@
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE37-FindAllBits/bin/Debug/net8.0/UE37-FindAllBits
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE37-FindAllBits/bin/Debug/net8.0/UE37-FindAllBits.deps.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE37-FindAllBits/bin/Debug/net8.0/UE37-FindAllBits.runtimeconfig.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE37-FindAllBits/bin/Debug/net8.0/UE37-FindAllBits.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE37-FindAllBits/bin/Debug/net8.0/UE37-FindAllBits.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE37-FindAllBits/obj/Debug/net8.0/UE37-FindAllBits.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE37-FindAllBits/obj/Debug/net8.0/UE37-FindAllBits.AssemblyInfoInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE37-FindAllBits/obj/Debug/net8.0/UE37-FindAllBits.AssemblyInfo.cs
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE37-FindAllBits/obj/Debug/net8.0/UE37-FindAllBits.csproj.CoreCompileInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE37-FindAllBits/obj/Debug/net8.0/UE37-FindAllBits.sourcelink.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE37-FindAllBits/obj/Debug/net8.0/UE37-FindAllBits.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE37-FindAllBits/obj/Debug/net8.0/refint/UE37-FindAllBits.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE37-FindAllBits/obj/Debug/net8.0/UE37-FindAllBits.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE37-FindAllBits/obj/Debug/net8.0/UE37-FindAllBits.genruntimeconfig.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE37-FindAllBits/obj/Debug/net8.0/ref/UE37-FindAllBits.dll

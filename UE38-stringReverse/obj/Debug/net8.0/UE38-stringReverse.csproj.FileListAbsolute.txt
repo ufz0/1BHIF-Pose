@@ -1,0 +1,15 @@
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE38-stringReverse/bin/Debug/net8.0/UE38-stringReverse
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE38-stringReverse/bin/Debug/net8.0/UE38-stringReverse.deps.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE38-stringReverse/bin/Debug/net8.0/UE38-stringReverse.runtimeconfig.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE38-stringReverse/bin/Debug/net8.0/UE38-stringReverse.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE38-stringReverse/bin/Debug/net8.0/UE38-stringReverse.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE38-stringReverse/obj/Debug/net8.0/UE38-stringReverse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE38-stringReverse/obj/Debug/net8.0/UE38-stringReverse.AssemblyInfoInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE38-stringReverse/obj/Debug/net8.0/UE38-stringReverse.AssemblyInfo.cs
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE38-stringReverse/obj/Debug/net8.0/UE38-stringReverse.csproj.CoreCompileInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE38-stringReverse/obj/Debug/net8.0/UE38-stringReverse.sourcelink.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE38-stringReverse/obj/Debug/net8.0/UE38-stringReverse.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE38-stringReverse/obj/Debug/net8.0/refint/UE38-stringReverse.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE38-stringReverse/obj/Debug/net8.0/UE38-stringReverse.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE38-stringReverse/obj/Debug/net8.0/UE38-stringReverse.genruntimeconfig.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE38-stringReverse/obj/Debug/net8.0/ref/UE38-stringReverse.dll
