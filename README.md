@@ -1,6 +1,2 @@
-BHC und variablenamen ändern bei kopien
-
-
-Wenn nocheinmal wer 1:1 kopiert bekommt er keinen zugang mehr hierzu
-
-Wenn es bei euch nicht kompilliert, könnte es helfen "using System;" oben hinzuschreiben.
+Wenn jemand nochmal hiervon so kopiert, dass ich theoretisch Punkteabzug bekomme, wird das Repo auf private gestellt.
+Wer dann Zugang will, muss mir seinen Code (von Auernigs Tabelle) und github usernamen sagen. 
