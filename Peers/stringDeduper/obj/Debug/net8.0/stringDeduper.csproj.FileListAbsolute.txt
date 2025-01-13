@@ -1,0 +1,15 @@
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/Peers/stringDeduper/bin/Debug/net8.0/stringDeduper
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/Peers/stringDeduper/bin/Debug/net8.0/stringDeduper.deps.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/Peers/stringDeduper/bin/Debug/net8.0/stringDeduper.runtimeconfig.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/Peers/stringDeduper/bin/Debug/net8.0/stringDeduper.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/Peers/stringDeduper/bin/Debug/net8.0/stringDeduper.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/Peers/stringDeduper/obj/Debug/net8.0/stringDeduper.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/Peers/stringDeduper/obj/Debug/net8.0/stringDeduper.AssemblyInfoInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/Peers/stringDeduper/obj/Debug/net8.0/stringDeduper.AssemblyInfo.cs
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/Peers/stringDeduper/obj/Debug/net8.0/stringDeduper.csproj.CoreCompileInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/Peers/stringDeduper/obj/Debug/net8.0/stringDeduper.sourcelink.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/Peers/stringDeduper/obj/Debug/net8.0/stringDeduper.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/Peers/stringDeduper/obj/Debug/net8.0/refint/stringDeduper.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/Peers/stringDeduper/obj/Debug/net8.0/stringDeduper.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/Peers/stringDeduper/obj/Debug/net8.0/stringDeduper.genruntimeconfig.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/Peers/stringDeduper/obj/Debug/net8.0/ref/stringDeduper.dll
