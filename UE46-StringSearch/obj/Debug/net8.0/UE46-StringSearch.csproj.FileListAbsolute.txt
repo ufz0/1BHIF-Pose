@@ -1,0 +1,15 @@
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE46-StringSearch/bin/Debug/net8.0/UE46-StringSearch
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE46-StringSearch/bin/Debug/net8.0/UE46-StringSearch.deps.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE46-StringSearch/bin/Debug/net8.0/UE46-StringSearch.runtimeconfig.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE46-StringSearch/bin/Debug/net8.0/UE46-StringSearch.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE46-StringSearch/bin/Debug/net8.0/UE46-StringSearch.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE46-StringSearch/obj/Debug/net8.0/UE46-StringSearch.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE46-StringSearch/obj/Debug/net8.0/UE46-StringSearch.AssemblyInfoInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE46-StringSearch/obj/Debug/net8.0/UE46-StringSearch.AssemblyInfo.cs
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE46-StringSearch/obj/Debug/net8.0/UE46-StringSearch.csproj.CoreCompileInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE46-StringSearch/obj/Debug/net8.0/UE46-StringSearch.sourcelink.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE46-StringSearch/obj/Debug/net8.0/UE46-StringSearch.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE46-StringSearch/obj/Debug/net8.0/refint/UE46-StringSearch.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE46-StringSearch/obj/Debug/net8.0/UE46-StringSearch.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE46-StringSearch/obj/Debug/net8.0/UE46-StringSearch.genruntimeconfig.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE46-StringSearch/obj/Debug/net8.0/ref/UE46-StringSearch.dll

@@ -1,0 +1,15 @@
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE43-DigitFilter/bin/Debug/net8.0/UE43-DigitFilter
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE43-DigitFilter/bin/Debug/net8.0/UE43-DigitFilter.deps.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE43-DigitFilter/bin/Debug/net8.0/UE43-DigitFilter.runtimeconfig.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE43-DigitFilter/bin/Debug/net8.0/UE43-DigitFilter.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE43-DigitFilter/bin/Debug/net8.0/UE43-DigitFilter.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE43-DigitFilter/obj/Debug/net8.0/UE43-DigitFilter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE43-DigitFilter/obj/Debug/net8.0/UE43-DigitFilter.AssemblyInfoInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE43-DigitFilter/obj/Debug/net8.0/UE43-DigitFilter.AssemblyInfo.cs
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE43-DigitFilter/obj/Debug/net8.0/UE43-DigitFilter.csproj.CoreCompileInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE43-DigitFilter/obj/Debug/net8.0/UE43-DigitFilter.sourcelink.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE43-DigitFilter/obj/Debug/net8.0/UE43-DigitFilter.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE43-DigitFilter/obj/Debug/net8.0/refint/UE43-DigitFilter.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE43-DigitFilter/obj/Debug/net8.0/UE43-DigitFilter.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE43-DigitFilter/obj/Debug/net8.0/UE43-DigitFilter.genruntimeconfig.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE43-DigitFilter/obj/Debug/net8.0/ref/UE43-DigitFilter.dll

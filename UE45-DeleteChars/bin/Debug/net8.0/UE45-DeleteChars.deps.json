@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "UE45-DeleteChars/1.0.0": {
+        "runtime": {
+          "UE45-DeleteChars.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UE45-DeleteChars/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

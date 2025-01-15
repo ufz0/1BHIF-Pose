@@ -1,0 +1,15 @@
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE44-FilterVocals/bin/Debug/net8.0/UE44-FilterVocals
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE44-FilterVocals/bin/Debug/net8.0/UE44-FilterVocals.deps.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE44-FilterVocals/bin/Debug/net8.0/UE44-FilterVocals.runtimeconfig.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE44-FilterVocals/bin/Debug/net8.0/UE44-FilterVocals.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE44-FilterVocals/bin/Debug/net8.0/UE44-FilterVocals.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE44-FilterVocals/obj/Debug/net8.0/UE44-FilterVocals.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE44-FilterVocals/obj/Debug/net8.0/UE44-FilterVocals.AssemblyInfoInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE44-FilterVocals/obj/Debug/net8.0/UE44-FilterVocals.AssemblyInfo.cs
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE44-FilterVocals/obj/Debug/net8.0/UE44-FilterVocals.csproj.CoreCompileInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE44-FilterVocals/obj/Debug/net8.0/UE44-FilterVocals.sourcelink.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE44-FilterVocals/obj/Debug/net8.0/UE44-FilterVocals.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE44-FilterVocals/obj/Debug/net8.0/refint/UE44-FilterVocals.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE44-FilterVocals/obj/Debug/net8.0/UE44-FilterVocals.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE44-FilterVocals/obj/Debug/net8.0/UE44-FilterVocals.genruntimeconfig.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE44-FilterVocals/obj/Debug/net8.0/ref/UE44-FilterVocals.dll

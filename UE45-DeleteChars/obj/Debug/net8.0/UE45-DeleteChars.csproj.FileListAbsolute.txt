@@ -1,0 +1,15 @@
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE45-DeleteChars/bin/Debug/net8.0/UE45-DeleteChars
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE45-DeleteChars/bin/Debug/net8.0/UE45-DeleteChars.deps.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE45-DeleteChars/bin/Debug/net8.0/UE45-DeleteChars.runtimeconfig.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE45-DeleteChars/bin/Debug/net8.0/UE45-DeleteChars.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE45-DeleteChars/bin/Debug/net8.0/UE45-DeleteChars.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE45-DeleteChars/obj/Debug/net8.0/UE45-DeleteChars.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE45-DeleteChars/obj/Debug/net8.0/UE45-DeleteChars.AssemblyInfoInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE45-DeleteChars/obj/Debug/net8.0/UE45-DeleteChars.AssemblyInfo.cs
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE45-DeleteChars/obj/Debug/net8.0/UE45-DeleteChars.csproj.CoreCompileInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE45-DeleteChars/obj/Debug/net8.0/UE45-DeleteChars.sourcelink.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE45-DeleteChars/obj/Debug/net8.0/UE45-DeleteChars.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE45-DeleteChars/obj/Debug/net8.0/refint/UE45-DeleteChars.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE45-DeleteChars/obj/Debug/net8.0/UE45-DeleteChars.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE45-DeleteChars/obj/Debug/net8.0/UE45-DeleteChars.genruntimeconfig.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE45-DeleteChars/obj/Debug/net8.0/ref/UE45-DeleteChars.dll
