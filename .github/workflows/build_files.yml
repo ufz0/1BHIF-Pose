@@ -1,4 +1,4 @@
-name: Build .NET Projects
+name: Build All .NET Solutions
 
 on:
   push:
@@ -7,33 +7,52 @@ on:
   pull_request:
     branches:
       - main
-  workflow_dispatch:    # Allows manual triggering
 
 jobs:
-  build:
-    runs-on: ubuntu-latest  # Or windows-latest if you prefer to use Windows for compilation
+  discover-and-build:
+    runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v3  # Checks out the code to the runner
+      # Step 1: Check out the repository
+      - name: Checkout repository
+        uses: actions/checkout@v3
 
-      - name: Set up .NET SDK
+      # Step 2: Discover all .sln files
+      - name: Discover .sln files
+        id: discover
+        run: |
+          # Find all .sln files in subdirectories
+          solutions=$(find . -type f -name "*.sln")
+          if [ -z "$solutions" ]; then
+            echo "No .sln files found!"
+            exit 1
+          fi
+          echo "Found solutions:"
+          echo "$solutions"
+          # Convert to JSON array for GitHub Actions matrix
+          solutions_json=$(echo "$solutions" | jq -R -s -c 'split("\n") | map(select(length > 0))')
+          echo "::set-output name=matrix::${solutions_json}"
+
+      # Step 3: Set up .NET Core
+      - name: Setup .NET
         uses: actions/setup-dotnet@v3
         with:
-          dotnet-version: '6.x'  # Use the version that matches your project setup
+          dotnet-version: 7.0 # Adjust the version as needed
 
-      - name: Restore dependencies
-        run: |
-          # Find all .csproj or .sln files and restore dependencies for each one
-          for proj in $(find . -name "*.csproj" -or -name "*.sln"); do
-            echo "Restoring dependencies for $proj"
-            dotnet restore $proj
-          done
+  build:
+    needs: discover-and-build
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        solution: ${{ fromJson(needs.discover-and-build.outputs.matrix) }}
 
-      - name: Build all projects
+    steps:
+      # Step 1: Check out the repository
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # Step 2: Build the solution
+      - name: Build ${{ matrix.solution }}
         run: |
-          # Find all .csproj files and build each one
-          for proj in $(find . -name "*.csproj"); do
-            echo "Building $proj"
-            dotnet build $proj --configuration Release
-          done
+          echo "Building solution: ${{ matrix.solution }}"
+          dotnet build "${{ matrix.solution }}" --configuration Release
