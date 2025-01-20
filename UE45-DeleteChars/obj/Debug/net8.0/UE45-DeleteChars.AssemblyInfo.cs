@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UE45-DeleteChars")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+547121e8d92ca0fb5fa25079ac739403bd2caa49")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+48bd76cb14c61d1b5aab7db4573a3472d4bcaa4c")]
 [assembly: System.Reflection.AssemblyProductAttribute("UE45-DeleteChars")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UE45-DeleteChars")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

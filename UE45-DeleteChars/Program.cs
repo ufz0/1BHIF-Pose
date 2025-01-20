@@ -4,11 +4,12 @@
     Lukas Leutgeb, 14.01.2025
  *------------------------------------------------------
     Description:
-        Filters a tet based on a eliminator
+        Filters a text based on an eliminator
  *------------------------------------------------------
 */
 
 using System;
+
 namespace deleteChars
 {
     class Program
@@ -17,30 +18,26 @@ namespace deleteChars
         {
             string input;
             string eliminator;
-            int inputLen;
-
+            
             Console.WriteLine("Please enter a text: ");
             input = Console.ReadLine() ?? string.Empty;
-            inputLen = input.Length;
             
-            Console.WriteLine("Please enter a eliminator text: ");
+            Console.WriteLine("Please enter an eliminator text: ");
             eliminator = Console.ReadLine() ?? string.Empty;
 
-            string sum = "";
+            string result = "";
 
 
-
-            for(int i = 0; i < inputLen; i++)
+            foreach (char c in input)
             {
-                for(int j = 0; j < eliminator.Length; j++)
+                
+                if (!eliminator.Contains(c))
                 {
-                    if(input[i] != eliminator[j])
-                    {
-                        sum += input[i];
-                    }
+                    result += c;
                 }
             }
-            Console.WriteLine(sum);
+
+            Console.WriteLine("Filtered text: " + result);
         }
     }
 }
