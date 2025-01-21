@@ -16,7 +16,7 @@ namespace stringSearch
     {
         static void Main()
         {        
-            Console.WriteLine("Eter a text: ");
+            Console.WriteLine("Enter a text: ");
             string input = Console.ReadLine();
             Console.WriteLine("Enter a string to search for: ");
             string searcher = Console.ReadLine();
