@@ -1,0 +1,15 @@
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE50-averageGrade/obj/Debug/net8.0/UE50-averageGrade.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE50-averageGrade/obj/Debug/net8.0/UE50-averageGrade.AssemblyInfoInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE50-averageGrade/obj/Debug/net8.0/UE50-averageGrade.AssemblyInfo.cs
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE50-averageGrade/obj/Debug/net8.0/UE50-averageGrade.csproj.CoreCompileInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE50-averageGrade/obj/Debug/net8.0/UE50-averageGrade.sourcelink.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE50-averageGrade/bin/Debug/net8.0/UE50-averageGrade
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE50-averageGrade/bin/Debug/net8.0/UE50-averageGrade.deps.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE50-averageGrade/bin/Debug/net8.0/UE50-averageGrade.runtimeconfig.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE50-averageGrade/bin/Debug/net8.0/UE50-averageGrade.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE50-averageGrade/bin/Debug/net8.0/UE50-averageGrade.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE50-averageGrade/obj/Debug/net8.0/UE50-averageGrade.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE50-averageGrade/obj/Debug/net8.0/refint/UE50-averageGrade.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE50-averageGrade/obj/Debug/net8.0/UE50-averageGrade.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE50-averageGrade/obj/Debug/net8.0/UE50-averageGrade.genruntimeconfig.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE50-averageGrade/obj/Debug/net8.0/ref/UE50-averageGrade.dll

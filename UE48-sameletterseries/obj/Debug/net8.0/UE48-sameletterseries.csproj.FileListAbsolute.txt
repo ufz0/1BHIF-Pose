@@ -1,0 +1,15 @@
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE48-sameletterseries/obj/Debug/net8.0/UE48-sameletterseries.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE48-sameletterseries/obj/Debug/net8.0/UE48-sameletterseries.AssemblyInfoInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE48-sameletterseries/obj/Debug/net8.0/UE48-sameletterseries.AssemblyInfo.cs
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE48-sameletterseries/obj/Debug/net8.0/UE48-sameletterseries.csproj.CoreCompileInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE48-sameletterseries/obj/Debug/net8.0/UE48-sameletterseries.sourcelink.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE48-sameletterseries/bin/Debug/net8.0/UE48-sameletterseries
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE48-sameletterseries/bin/Debug/net8.0/UE48-sameletterseries.deps.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE48-sameletterseries/bin/Debug/net8.0/UE48-sameletterseries.runtimeconfig.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE48-sameletterseries/bin/Debug/net8.0/UE48-sameletterseries.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE48-sameletterseries/bin/Debug/net8.0/UE48-sameletterseries.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE48-sameletterseries/obj/Debug/net8.0/UE48-sameletterseries.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE48-sameletterseries/obj/Debug/net8.0/refint/UE48-sameletterseries.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE48-sameletterseries/obj/Debug/net8.0/UE48-sameletterseries.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE48-sameletterseries/obj/Debug/net8.0/UE48-sameletterseries.genruntimeconfig.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE48-sameletterseries/obj/Debug/net8.0/ref/UE48-sameletterseries.dll
