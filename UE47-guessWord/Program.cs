@@ -83,4 +83,26 @@ namespace guessWord
                 bool found = false;
                 for (int i = 0; i < inputWordLen; i++)
                 {
-                    i
+                    if (inputWord[i] == input[0])
+                    {
+                        found = true;
+                        break;
+                    }
+                }
+
+                if (!found) 
+                {
+                    mistakes++;
+                }
+            }
+
+            if (output == inputWord)
+            {
+                Console.WriteLine($"You guessed the word: {inputWord}!");
+                Console.WriteLine($"You made {mistakes} mistakes.");
+            }
+            Console.WriteLine("Press Enter to exit...");
+            Console.ReadLine();
+        }
+    }
+}
