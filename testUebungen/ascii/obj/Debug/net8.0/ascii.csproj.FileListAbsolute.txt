@@ -1,0 +1,15 @@
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/testUebungen/ascii/bin/Debug/net8.0/ascii
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/testUebungen/ascii/bin/Debug/net8.0/ascii.deps.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/testUebungen/ascii/bin/Debug/net8.0/ascii.runtimeconfig.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/testUebungen/ascii/bin/Debug/net8.0/ascii.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/testUebungen/ascii/bin/Debug/net8.0/ascii.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/testUebungen/ascii/obj/Debug/net8.0/ascii.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/testUebungen/ascii/obj/Debug/net8.0/ascii.AssemblyInfoInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/testUebungen/ascii/obj/Debug/net8.0/ascii.AssemblyInfo.cs
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/testUebungen/ascii/obj/Debug/net8.0/ascii.csproj.CoreCompileInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/testUebungen/ascii/obj/Debug/net8.0/ascii.sourcelink.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/testUebungen/ascii/obj/Debug/net8.0/ascii.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/testUebungen/ascii/obj/Debug/net8.0/refint/ascii.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/testUebungen/ascii/obj/Debug/net8.0/ascii.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/testUebungen/ascii/obj/Debug/net8.0/ascii.genruntimeconfig.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/testUebungen/ascii/obj/Debug/net8.0/ref/ascii.dll

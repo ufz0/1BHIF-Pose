@@ -1,0 +1,15 @@
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/testUebungen/DigitTriangle/bin/Debug/net8.0/DigitTriangle
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/testUebungen/DigitTriangle/bin/Debug/net8.0/DigitTriangle.deps.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/testUebungen/DigitTriangle/bin/Debug/net8.0/DigitTriangle.runtimeconfig.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/testUebungen/DigitTriangle/bin/Debug/net8.0/DigitTriangle.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/testUebungen/DigitTriangle/bin/Debug/net8.0/DigitTriangle.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/testUebungen/DigitTriangle/obj/Debug/net8.0/DigitTriangle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/testUebungen/DigitTriangle/obj/Debug/net8.0/DigitTriangle.AssemblyInfoInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/testUebungen/DigitTriangle/obj/Debug/net8.0/DigitTriangle.AssemblyInfo.cs
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/testUebungen/DigitTriangle/obj/Debug/net8.0/DigitTriangle.csproj.CoreCompileInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/testUebungen/DigitTriangle/obj/Debug/net8.0/DigitTriangle.sourcelink.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/testUebungen/DigitTriangle/obj/Debug/net8.0/DigitTriangle.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/testUebungen/DigitTriangle/obj/Debug/net8.0/refint/DigitTriangle.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/testUebungen/DigitTriangle/obj/Debug/net8.0/DigitTriangle.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/testUebungen/DigitTriangle/obj/Debug/net8.0/DigitTriangle.genruntimeconfig.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/testUebungen/DigitTriangle/obj/Debug/net8.0/ref/DigitTriangle.dll
