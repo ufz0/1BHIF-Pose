@@ -1,0 +1,15 @@
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE51-extractLowerCase/bin/Debug/net8.0/UE51-extractLowerCase
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE51-extractLowerCase/bin/Debug/net8.0/UE51-extractLowerCase.deps.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE51-extractLowerCase/bin/Debug/net8.0/UE51-extractLowerCase.runtimeconfig.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE51-extractLowerCase/bin/Debug/net8.0/UE51-extractLowerCase.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE51-extractLowerCase/bin/Debug/net8.0/UE51-extractLowerCase.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE51-extractLowerCase/obj/Debug/net8.0/UE51-extractLowerCase.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE51-extractLowerCase/obj/Debug/net8.0/UE51-extractLowerCase.AssemblyInfoInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE51-extractLowerCase/obj/Debug/net8.0/UE51-extractLowerCase.AssemblyInfo.cs
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE51-extractLowerCase/obj/Debug/net8.0/UE51-extractLowerCase.csproj.CoreCompileInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE51-extractLowerCase/obj/Debug/net8.0/UE51-extractLowerCase.sourcelink.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE51-extractLowerCase/obj/Debug/net8.0/UE51-extractLowerCase.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE51-extractLowerCase/obj/Debug/net8.0/refint/UE51-extractLowerCase.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE51-extractLowerCase/obj/Debug/net8.0/UE51-extractLowerCase.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE51-extractLowerCase/obj/Debug/net8.0/UE51-extractLowerCase.genruntimeconfig.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE51-extractLowerCase/obj/Debug/net8.0/ref/UE51-extractLowerCase.dll
