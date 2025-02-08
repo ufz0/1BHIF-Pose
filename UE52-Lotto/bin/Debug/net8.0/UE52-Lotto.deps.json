@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "UE52-Lotto/1.0.0": {
+        "runtime": {
+          "UE52-Lotto.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UE52-Lotto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

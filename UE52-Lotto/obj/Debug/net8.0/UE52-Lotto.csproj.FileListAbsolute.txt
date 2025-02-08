@@ -1,0 +1,15 @@
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE52-Lotto/bin/Debug/net8.0/UE52-Lotto
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE52-Lotto/bin/Debug/net8.0/UE52-Lotto.deps.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE52-Lotto/bin/Debug/net8.0/UE52-Lotto.runtimeconfig.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE52-Lotto/bin/Debug/net8.0/UE52-Lotto.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE52-Lotto/bin/Debug/net8.0/UE52-Lotto.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE52-Lotto/obj/Debug/net8.0/UE52-Lotto.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE52-Lotto/obj/Debug/net8.0/UE52-Lotto.AssemblyInfoInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE52-Lotto/obj/Debug/net8.0/UE52-Lotto.AssemblyInfo.cs
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE52-Lotto/obj/Debug/net8.0/UE52-Lotto.csproj.CoreCompileInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE52-Lotto/obj/Debug/net8.0/UE52-Lotto.sourcelink.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE52-Lotto/obj/Debug/net8.0/UE52-Lotto.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE52-Lotto/obj/Debug/net8.0/refint/UE52-Lotto.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE52-Lotto/obj/Debug/net8.0/UE52-Lotto.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE52-Lotto/obj/Debug/net8.0/UE52-Lotto.genruntimeconfig.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE52-Lotto/obj/Debug/net8.0/ref/UE52-Lotto.dll

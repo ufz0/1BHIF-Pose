@@ -1,0 +1,15 @@
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE52-Lotto/UE54-dec2bin/bin/Debug/net8.0/UE54-dec2bin
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE52-Lotto/UE54-dec2bin/bin/Debug/net8.0/UE54-dec2bin.deps.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE52-Lotto/UE54-dec2bin/bin/Debug/net8.0/UE54-dec2bin.runtimeconfig.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE52-Lotto/UE54-dec2bin/bin/Debug/net8.0/UE54-dec2bin.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE52-Lotto/UE54-dec2bin/bin/Debug/net8.0/UE54-dec2bin.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE52-Lotto/UE54-dec2bin/obj/Debug/net8.0/UE54-dec2bin.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE52-Lotto/UE54-dec2bin/obj/Debug/net8.0/UE54-dec2bin.AssemblyInfoInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE52-Lotto/UE54-dec2bin/obj/Debug/net8.0/UE54-dec2bin.AssemblyInfo.cs
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE52-Lotto/UE54-dec2bin/obj/Debug/net8.0/UE54-dec2bin.csproj.CoreCompileInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE52-Lotto/UE54-dec2bin/obj/Debug/net8.0/UE54-dec2bin.sourcelink.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE52-Lotto/UE54-dec2bin/obj/Debug/net8.0/UE54-dec2bin.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE52-Lotto/UE54-dec2bin/obj/Debug/net8.0/refint/UE54-dec2bin.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE52-Lotto/UE54-dec2bin/obj/Debug/net8.0/UE54-dec2bin.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE52-Lotto/UE54-dec2bin/obj/Debug/net8.0/UE54-dec2bin.genruntimeconfig.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE52-Lotto/UE54-dec2bin/obj/Debug/net8.0/ref/UE54-dec2bin.dll

@@ -1,0 +1,15 @@
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE52-Lotto/UE53-lettercounter/bin/Debug/net8.0/UE53-lettercounter
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE52-Lotto/UE53-lettercounter/bin/Debug/net8.0/UE53-lettercounter.deps.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE52-Lotto/UE53-lettercounter/bin/Debug/net8.0/UE53-lettercounter.runtimeconfig.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE52-Lotto/UE53-lettercounter/bin/Debug/net8.0/UE53-lettercounter.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE52-Lotto/UE53-lettercounter/bin/Debug/net8.0/UE53-lettercounter.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE52-Lotto/UE53-lettercounter/obj/Debug/net8.0/UE53-lettercounter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE52-Lotto/UE53-lettercounter/obj/Debug/net8.0/UE53-lettercounter.AssemblyInfoInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE52-Lotto/UE53-lettercounter/obj/Debug/net8.0/UE53-lettercounter.AssemblyInfo.cs
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE52-Lotto/UE53-lettercounter/obj/Debug/net8.0/UE53-lettercounter.csproj.CoreCompileInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE52-Lotto/UE53-lettercounter/obj/Debug/net8.0/UE53-lettercounter.sourcelink.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE52-Lotto/UE53-lettercounter/obj/Debug/net8.0/UE53-lettercounter.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE52-Lotto/UE53-lettercounter/obj/Debug/net8.0/refint/UE53-lettercounter.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE52-Lotto/UE53-lettercounter/obj/Debug/net8.0/UE53-lettercounter.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE52-Lotto/UE53-lettercounter/obj/Debug/net8.0/UE53-lettercounter.genruntimeconfig.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE52-Lotto/UE53-lettercounter/obj/Debug/net8.0/ref/UE53-lettercounter.dll

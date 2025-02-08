@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "UE54-dec2bin/1.0.0": {
+        "runtime": {
+          "UE54-dec2bin.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UE54-dec2bin/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
