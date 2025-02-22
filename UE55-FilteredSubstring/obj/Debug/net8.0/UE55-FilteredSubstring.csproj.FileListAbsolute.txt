@@ -1,0 +1,15 @@
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE55-FilteredSubstring/bin/Debug/net8.0/UE55-FilteredSubstring
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE55-FilteredSubstring/bin/Debug/net8.0/UE55-FilteredSubstring.deps.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE55-FilteredSubstring/bin/Debug/net8.0/UE55-FilteredSubstring.runtimeconfig.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE55-FilteredSubstring/bin/Debug/net8.0/UE55-FilteredSubstring.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE55-FilteredSubstring/bin/Debug/net8.0/UE55-FilteredSubstring.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE55-FilteredSubstring/obj/Debug/net8.0/UE55-FilteredSubstring.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE55-FilteredSubstring/obj/Debug/net8.0/UE55-FilteredSubstring.AssemblyInfoInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE55-FilteredSubstring/obj/Debug/net8.0/UE55-FilteredSubstring.AssemblyInfo.cs
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE55-FilteredSubstring/obj/Debug/net8.0/UE55-FilteredSubstring.csproj.CoreCompileInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE55-FilteredSubstring/obj/Debug/net8.0/UE55-FilteredSubstring.sourcelink.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE55-FilteredSubstring/obj/Debug/net8.0/UE55-FilteredSubstring.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE55-FilteredSubstring/obj/Debug/net8.0/refint/UE55-FilteredSubstring.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE55-FilteredSubstring/obj/Debug/net8.0/UE55-FilteredSubstring.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE55-FilteredSubstring/obj/Debug/net8.0/UE55-FilteredSubstring.genruntimeconfig.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE55-FilteredSubstring/obj/Debug/net8.0/ref/UE55-FilteredSubstring.dll

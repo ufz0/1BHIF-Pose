@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "UE56-Palindrome/1.0.0": {
+        "runtime": {
+          "UE56-Palindrome.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UE56-Palindrome/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

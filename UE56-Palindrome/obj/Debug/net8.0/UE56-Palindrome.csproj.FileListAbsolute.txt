@@ -1,0 +1,15 @@
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE56-Palindrome/bin/Debug/net8.0/UE56-Palindrome
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE56-Palindrome/bin/Debug/net8.0/UE56-Palindrome.deps.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE56-Palindrome/bin/Debug/net8.0/UE56-Palindrome.runtimeconfig.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE56-Palindrome/bin/Debug/net8.0/UE56-Palindrome.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE56-Palindrome/bin/Debug/net8.0/UE56-Palindrome.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE56-Palindrome/obj/Debug/net8.0/UE56-Palindrome.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE56-Palindrome/obj/Debug/net8.0/UE56-Palindrome.AssemblyInfoInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE56-Palindrome/obj/Debug/net8.0/UE56-Palindrome.AssemblyInfo.cs
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE56-Palindrome/obj/Debug/net8.0/UE56-Palindrome.csproj.CoreCompileInputs.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE56-Palindrome/obj/Debug/net8.0/UE56-Palindrome.sourcelink.json
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE56-Palindrome/obj/Debug/net8.0/UE56-Palindrome.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE56-Palindrome/obj/Debug/net8.0/refint/UE56-Palindrome.dll
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE56-Palindrome/obj/Debug/net8.0/UE56-Palindrome.pdb
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE56-Palindrome/obj/Debug/net8.0/UE56-Palindrome.genruntimeconfig.cache
+/Users/lukas/Library/CloudStorage/OneDrive-HTBLALeonding/HTL-1/Pose/UE56-Palindrome/obj/Debug/net8.0/ref/UE56-Palindrome.dll
